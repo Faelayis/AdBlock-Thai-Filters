@@ -1,7 +1,8 @@
 ! Title: AdsBlockThaiFilters
-! Version: 5.3.2021.02
+! Version: 5.3.2021.03
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
+! Developer & Maintainer: F1rstStr0ke
 
 ! 2020-11-02 https://www.animelolo.com
 www.animelolo.com##.row > center
@@ -21,13 +22,6 @@ www.animerem.com##.panel-body > center:nth-of-type(2)
 www.animerem.com##.panel-body > center:nth-of-type(6)
 www.animerem.com##.panel-body > center:nth-of-type(5)
 www.animerem.com##.panel-body > center:nth-of-type(8)
-
-! 2020-11-11 https://gp.falixnodes.net
-gp.falixnodes.net##.fPxFGL.sc-1ikkfm-3
-gp.falixnodes.net##.hVTHoQ.itaf37-1
-gp.falixnodes.net##.liZcAq.sc-19da077-0
-gp.falixnodes.net##.sJgOE.sc-1ehiwhq-0
-gp.falixnodes.net##.eByvEh.sc-1ehiwhq-10
 
 ! 2021-03-03 https://animekimi.com
 animekimi.com###animekimiads4
@@ -61,6 +55,17 @@ animekimi.com##[href="https://ufazeed.com"] > .lazy.animekimi-banner
 ||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
+
+! 2021-03-05 https://www.series24hr.com
+www.series24hr.com###light2 > p
+www.series24hr.com###light > p
+
+! 2020-11-11 https://gp.falixnodes.net
+gp.falixnodes.net##.fPxFGL.sc-1ikkfm-3
+gp.falixnodes.net##.hVTHoQ.itaf37-1
+gp.falixnodes.net##.liZcAq.sc-19da077-0
+gp.falixnodes.net##.sJgOE.sc-1ehiwhq-0
+gp.falixnodes.net##.eByvEh.sc-1ehiwhq-10
 
 !credit https://adblock-thai.github.io/
 !----- filters/general/adservers_block.txt -----
