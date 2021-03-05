@@ -1,4 +1,4 @@
-! Title: AdsBlockThaiFilters
+! Title: AdsBlockThaiAnimeFilters
 ! Version: 5.3.2021.03
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
