@@ -8,7 +8,7 @@
 ## :page_facing_up: Lists
 List | Size | Subscribe | Direct Link | Downloads
 |:---------:|:-------:|:-------:|:--------:|:---------:|
-Thai Ads Filters | ![][Filter Size] | [Click][Filter Subscribe] | [Link][Direct] | [Downloads][Download]
+Thai Ads Filters | ![][Filter Size] | [Click][Filter Subscribe] | [Link][Direct] | ![Downloads][Download]
 
 [Filter Subscribe]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filterlistall.txt&title=AdsBlockThaiFilters
 [Direct]: https://github.com/F1rstStr0ke/adblock-thai-filters/filterlistall.txt
