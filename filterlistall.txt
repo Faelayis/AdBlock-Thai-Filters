@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 5.3.2021.03
+! Version: 5.3.2021.04
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -41,31 +41,28 @@ animekimi.com##[href="https://sexygame1688.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://ufac4.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://sagame1688.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://ufazeed.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://kingdom66.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://lotto432.com/login"] > .lazy.animekimi-banner
+animekimi.com##[href="https://slotgame6666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://www.ssgame666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://hydra888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://juad888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufa1919.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://panama888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://1688sexygame.co"] > .lazy.animekimi-banner
+animekimi.com##[href="https://vip168sa.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame66.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sagame6699.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://lockdown168.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame1688.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufac4.com"] > .lazy.animekimi-banner
+animekimi.com##.module_home_x
 
-! 2021-02-28 https://www.i-moviehd.com
-||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
-||www.i-moviehd.com/wp-content/uploads/2020/11/panama888.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/02/Lockdown168.gif$image
-||www.i-moviehd.com/wp-content/uploads/2020/12/king120x380.gif$image
-||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
-||www.i-moviehd.com/wp-content/uploads/2021/02/london-x.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-UFAzeed.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
-||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
-||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
-
-! 2021-03-05 https://www.series24hr.com
-www.series24hr.com###light2 > p
-www.series24hr.com###light > p
-
-! 2020-11-11 https://gp.falixnodes.net
-gp.falixnodes.net##.fPxFGL.sc-1ikkfm-3
-gp.falixnodes.net##.hVTHoQ.itaf37-1
-gp.falixnodes.net##.liZcAq.sc-19da077-0
-gp.falixnodes.net##.sJgOE.sc-1ehiwhq-0
-gp.falixnodes.net##.eByvEh.sc-1ehiwhq-10
+! 2021-01-03 https://ok-anime.com
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
 
 !credit https://adblock-thai.github.io/
 !----- filters/general/adservers_block.txt -----

@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiAnimeFilters
-! Version: 5.3.2021.03
+! Version: 5.3.2021.04
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -41,3 +41,25 @@ animekimi.com##[href="https://sexygame1688.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://ufac4.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://sagame1688.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://ufazeed.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://kingdom66.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://lotto432.com/login"] > .lazy.animekimi-banner
+animekimi.com##[href="https://slotgame6666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://www.ssgame666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://hydra888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://juad888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufa1919.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://panama888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://1688sexygame.co"] > .lazy.animekimi-banner
+animekimi.com##[href="https://vip168sa.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame66.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sagame6699.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://lockdown168.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame1688.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufac4.com"] > .lazy.animekimi-banner
+animekimi.com##.module_home_x
+
+! 2021-01-03 https://ok-anime.com
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
