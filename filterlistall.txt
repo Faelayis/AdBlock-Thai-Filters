@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 5.3.2021.04
+! Version: 5.3.2021.05
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -63,6 +63,18 @@ animekimi.com##.module_home_x
 ||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
 ||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
 ||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+
+! 2021-03-05 https://www.i-moviehd.com
+||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-UFAzeed.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/london-x.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/11/panama888.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/Lockdown168.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/12/king120x380.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
+
 
 !credit https://adblock-thai.github.io/
 !----- filters/general/adservers_block.txt -----
