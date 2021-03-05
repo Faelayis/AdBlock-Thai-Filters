@@ -1,0 +1,63 @@
+! Title: AdsBlockThaiFilters
+! Version: 5.3.2021.01
+! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
+! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
+
+! 2020-11-02 https://www.animelolo.com
+www.animelolo.com##.row > center
+www.animelolo.com##.panel-danger.panel > .br-top.text-center
+www.animelolo.com##.panel-body > center:nth-of-type(3)
+||i.imgur.com/znrL9rC.gif$image
+www.animelolo.com##center:nth-of-type(5)
+www.animelolo.com##center:nth-of-type(6)
+www.animelolo.com##.panel-body > div > center
+
+! 2020-11-02 https://www.animerem.com
+www.animerem.com##.row > center
+www.animerem.com##.panel-body > div > center
+www.animerem.com##.br-top.col-md-12 > center
+www.animerem.com##.panel-body > center:nth-of-type(3)
+www.animerem.com##.panel-body > center:nth-of-type(2)
+www.animerem.com##.panel-body > center:nth-of-type(6)
+www.animerem.com##.panel-body > center:nth-of-type(5)
+www.animerem.com##.panel-body > center:nth-of-type(8)
+
+! 2020-11-11 https://gp.falixnodes.net
+gp.falixnodes.net##.fPxFGL.sc-1ikkfm-3
+gp.falixnodes.net##.hVTHoQ.itaf37-1
+gp.falixnodes.net##.liZcAq.sc-19da077-0
+gp.falixnodes.net##.sJgOE.sc-1ehiwhq-0
+gp.falixnodes.net##.eByvEh.sc-1ehiwhq-10
+
+! 2021-03-03 https://animekimi.com
+animekimi.com###animekimiads4
+animekimi.com###animekimiads5
+animekimi.com##[href="https://panama888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://1688sagame.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://juad888.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://mahagame88.co/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufa1919.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://77lotto.co/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://slotgame6666.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sagame6699.com/"] > .lazy.animekimi-banner
+animekimi.com##[href="https://newyork888.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://london168.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sexygame1688.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufac4.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://sagame1688.com"] > .lazy.animekimi-banner
+animekimi.com##[href="https://ufazeed.com"] > .lazy.animekimi-banner
+
+! 2021-02-28 https://www.i-moviehd.com
+||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/11/panama888.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/Lockdown168.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/12/king120x380.gif$image
+||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/london-x.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-UFAzeed.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
