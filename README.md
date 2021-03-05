@@ -17,7 +17,7 @@ Anime Filters | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link
 [Filter Size_all]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filterlistall.txt?style=flat-square
 [Tag_all]: https://img.shields.io/github/v/tag/F1rstStr0ke/AdBlock-Thai-Filters?label=%20Patch&style=for-the-badge
 
-[Filter Subscribe_Anime]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filterlistall.txt&title=AdsBlockThaiFilters
-[Direct_Anime]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/filterlistall.txt
-[Filter Size_Anime]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filterlistall.txt?style=flat-square
+[Filter Subscribe_Anime]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/anime.txt.txt&title=AdsBlockThaiFilters
+[Direct_Anime]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/anime.txt.txt
+[Filter Size_Anime]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/anime.txt.txt?style=flat-square
 [Tag_Anime]: https://img.shields.io/github/v/tag/F1rstStr0ke/AdBlock-Thai-Filters?label=%20Patch&style=for-the-badge
