@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 11.3.2021.01
+! Version: 11.3.2021.02
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -53,7 +53,13 @@ animekimi.com##[href="https://sagame6699.com"] > .lazy.animekimi-banner
 animekimi.com##[href="https://lockdown168.com/"] > .lazy.animekimi-banner
 
 ! https://ok-anime.com
-||1.bp.blogspot.com/-oDw8Vf8RIxU/X94uz8-8jzI/AAAAAAAB-So/o8c4U7-wdV0Kr7OgM2V-pI-faOAucOsewCLcBGAsYHQ/s16000/Luca728_1802.gif$image
+ok-anime.com##.bounce.animated.kosana
+||1.bp.blogspot.com/-KcG94sSiGao/X94uVbmgIwI/AAAAAAAB-Sg/QIbShokDiosaQmIOt_gQG0c_Sm9jOUpuQCLcBGAsYHQ/s16000/Luca728_90.gif$image
+ok-anime.com##.col-xs-12 > .img-banner-center-bottom
+||ok-anime.com/image/X11-icon.png$image
+||ok-anime.com/image/X11-icon.png$image
+||1.bp.blogspot.com/-wIDjedUwY04/YCjbP4ymWGI/AAAAAAAB-Vc/TnOzLzhe00IyXYQcd9rp5nBXyL7fvUIkQCLcBGAsYHQ/s16000/RG3Sport-3.6-130x358px.gif$image
+||1.bp.blogspot.com/-NgbghtegGUc/YCZfvIFMtNI/AAAAAAAB-U8/ZQA24Qb5K7A3-0831akspddAfVx0qBD2ACLcBGAsYHQ/s16000/tmp_1613122332266.gif$image
 
 ! https://merlin-anime.com
 merlin-anime.com##.pd-bn.row
