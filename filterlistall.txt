@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 11.3.2021.02
+! Version: 11.3.2021.03
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -76,6 +76,16 @@ www.shibaanime.com##center
 ! https://anime2c.com
 ||anime2c.com/wp-content/uploads/2021/01/Slot-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%99970.gif$image
 ||anime2c.com/wp-content/uploads/2021/01/winufa369-Anime2C-Anime-%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0-%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0-%E0%B8%94%E0%B8%B9%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0-%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.gif$image
+
+! https://www.animesiam.com
+www.animesiam.com##.code-block-1.code-block > a.no-lightbox
+www.animesiam.com##.code-block-2.code-block > a.no-lightbox
+www.animesiam.com##.close-left
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_200,h_200/https://www.animesiam.com/wp-content/uploads/2021/03/Joker123-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%82%E0%B8%88%E0%B9%8A%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-2-1.jpg$image
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_150/https://www.animesiam.com/wp-content/uploads/2021/03/PGslot-%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95.jpg$image
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_200,h_200/https://www.animesiam.com/wp-content/uploads/2021/03/Joker123-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B9%82%E0%B8%88%E0%B9%8A%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-2-1.jpg$image
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_150,h_300/https://www.animesiam.com/wp-content/uploads/2021/01/SLOTXO-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-SLOTXO-THAI.jpg$image
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_150/https://www.animesiam.com/wp-content/uploads/2021/03/PGslot-%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95.jpg$image
 
 ! https://www.i-moviehd.com
 ||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
