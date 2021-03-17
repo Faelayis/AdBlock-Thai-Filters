@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiAnimeFilters
-! Version: 13.3.2021.01
+! Version: 18.3.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -89,3 +89,9 @@ www.animesiam.com##.close-left
 
 ! https://anime-h.com
 anime-h.com##.bottom-2x.text-center
+
+! https://miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##center:nth-of-type(1)
+miku-doujin.com##center:nth-of-type(3)
+miku-doujin.com##center:nth-of-type(2)
