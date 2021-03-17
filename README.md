@@ -7,7 +7,7 @@
 ![Discord](https://img.shields.io/discord/603204612035444768?label=Discord&style=flat-square)
 
 ## :page_facing_up: Lists
-List | Size | Subscribe | Direct Link | tag
+List | Size | Subscribe & Add | Direct Link | tag
 |:---------:|:-------:|:-------:|:--------:|:---------:|
 Thai Ads Filters | ![][Filter Size_all] | [Click][Filter Subscribe_all] | [Link][Direct_all] | ![][tag_all]
 Anime Filters | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link][Direct_Anime] |
