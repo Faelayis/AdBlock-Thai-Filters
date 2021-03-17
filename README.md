@@ -9,7 +9,7 @@
 ## :page_facing_up: Lists
 List | Size | Subscribe & Add | Direct Link | tag
 |:---------:|:-------:|:-------:|:--------:|:---------:|
-Thai Ads Filters | ![][Filter Size_all] | [Click][Filter Subscribe_all] | [Link][Direct_all] | ![][tag_all]
+Thai Ads all Filters | ![][Filter Size_all] | [Click][Filter Subscribe_all] | [Link][Direct_all] | ![][tag_all]
 Anime Filters | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link][Direct_Anime] |
 
 [Filter Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filterlistall.txt&title=AdsBlockThaiFilters
