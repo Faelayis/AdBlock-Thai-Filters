@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/github/license/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
 ![release](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
 ![pre-releases](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=pre-releases&style=flat-square)
-![Discord](https://img.shields.io/discord/603204612035444768?label=Discord&style=flat-square)
 
 ## :page_facing_up: Lists
 List | Size | Subscribe & Add | Direct Link | tag
