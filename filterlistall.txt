@@ -1,28 +1,48 @@
 ! Title: AdsBlockThaiFilters
-! Version: 19.3.2021.01
+! Version: 21.3.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
 ! Discord: F1rstStr0ke#2924
 
 ! https://www.animelolo.com
-www.animelolo.com##.row > center
-www.animelolo.com##.panel-danger.panel > .br-top.text-center
-www.animelolo.com##.panel-body > center:nth-of-type(3)
+www.animelolo.com##.row > center:nth-of-type(1)
+www.animelolo.com##center:nth-of-type(1)
+www.animelolo.com##center:nth-of-type(2)
+www.animelolo.com##center:nth-of-type(3)
+www.animelolo.com##center:nth-of-type(4)
 www.animelolo.com##center:nth-of-type(5)
 www.animelolo.com##center:nth-of-type(6)
-www.animelolo.com##.panel-body > div > center
-||i.imgur.com/znrL9rC.gif$image
+www.animelolo.com##center:nth-of-type(7)
 
 ! https://www.animerem.com
 www.animerem.com##.row > center
 www.animerem.com##.panel-body > div > center
 www.animerem.com##.br-top.col-md-12 > center
-www.animerem.com##.panel-body > center:nth-of-type(3)
-www.animerem.com##.panel-body > center:nth-of-type(2)
-www.animerem.com##.panel-body > center:nth-of-type(6)
-www.animerem.com##.panel-body > center:nth-of-type(5)
-www.animerem.com##.panel-body > center:nth-of-type(8)
+www.animerem.com##center:nth-of-type(1)
+www.animerem.com##center:nth-of-type(2)
+www.animerem.com##center:nth-of-type(3)
+www.animerem.com##center:nth-of-type(4)
+www.animerem.com##center:nth-of-type(5)
+www.animerem.com##center:nth-of-type(6)
+www.animerem.com##center:nth-of-type(7)
+www.animerem.com##center:nth-of-type(8)
+www.animerem.com##center:nth-of-type(9)
+www.animerem.com##center:nth-of-type(10)
+www.animerem.com##center:nth-of-type(12)
+www.animerem.com##center:nth-of-type(13)
+www.animerem.com##center:nth-of-type(14)
+www.animerem.com##center:nth-of-type(15)
+www.animerem.com##center:nth-of-type(16)
+www.animerem.com##center:nth-of-type(17)
+www.animerem.com##center:nth-of-type(18)
+www.animerem.com##center:nth-of-type(19)
+www.animerem.com##center:nth-of-type(20)
+www.animerem.com##center:nth-of-type(21)
+www.animerem.com##center:nth-of-type(22)
+www.animerem.com##center:nth-of-type(23)
+www.animerem.com##center:nth-of-type(24)
+www.animerem.com##center:nth-of-type(25)
 
 ! https://animekimi.com
 animekimi.com###animekimiads4
@@ -98,10 +118,7 @@ miku-doujin.com##center:nth-of-type(2)
 
 ! https://www.anime-suba.com
 www.anime-suba.com##.figure02
-||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/img02/Lockdown168.gif$image
-||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/img03/UFAC4.gif$image
-www.anime-suba.com##.white_content02
-www.anime-suba.com##.white_content03
+www.anime-suba.com###ligh
 
 ! https://www.i-moviehd.com
 ||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
