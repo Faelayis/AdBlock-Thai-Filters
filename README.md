@@ -21,7 +21,7 @@ Anime Filters | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link
 [Filter Size_Anime]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/anime.txt?style=flat-square
 [Tag_Anime]: https://img.shields.io/github/v/tag/F1rstStr0ke/AdBlock-Thai-Filters?label=%20Patch&style=for-the-badge
 
-## :page_facing_up: Supported Pages
+## :page_facing_up: Supported Pages (specific)
 <!--pages-->
   <table>
     <thead>
