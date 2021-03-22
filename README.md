@@ -21,7 +21,7 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 [Filter Size_Anime]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/anime.txt?style=flat-square
 [Tag_Anime]: https://img.shields.io/github/v/tag/F1rstStr0ke/AdBlock-Thai-Filters?label=%20Patch&style=for-the-badge
 
-## :page_facing_up: Pages (specific)  เว็บ (ให้ความสําคัญสูง)
+## :page_facing_up: Web Pages (specific)  เว็บ (ให้ความสําคัญสูง)
 <!--pages-->
   <table>
     <thead>
