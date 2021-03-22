@@ -1,11 +1,11 @@
 ! Title: AdsBlockThaiAnimeFilters
-! Version: 22.3.2021.01
+! Version: 22.3.2021.02
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
 ! Discord: F1rstStr0ke#2924
 
-! category Anime
+! Category Anime
 ! https://www.animelolo.com
 www.animelolo.com##.row > center:nth-of-type(1)
 www.animelolo.com##center:nth-of-type(1)
@@ -112,11 +112,93 @@ www.animesiam.com##.close-left
 www.anime-suba.com##.figure02
 www.anime-suba.com###ligh
 
-! category hentai
+! https://anime-i.com
+anime-i.com##.banner-top
+anime-i.com##.textwidget > div:nth-of-type(3)
+anime-i.com##.textwidget > div:nth-of-type(4)
+anime-i.com/files/banner/*
+
+! https://anime-sugoi.com
+anime-sugoi.com##center > br
+anime-sugoi.com###slider-l
+anime-sugoi.com###slider-r
+anime-sugoi.com##.row > center:nth-of-type(1)
+anime-sugoi.com##center:nth-of-type(4)
+www.anime-sugoi.com##.row > center:nth-of-type(2)
+www.anime-sugoi.com##center > center
+www.anime-sugoi.com##center:nth-of-type(3)
+www.anime-sugoi.com##center:nth-of-type(5)
+www.anime-sugoi.com##.row > .col-md-8
+www.anime-sugoi.com##.panel-body > center > a
+anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
+||www.anime-sugoi.com/css/ontop.png$image
+
+! https://animeloli.com
+animeloli.com##.imgbanner
+animeloli.com###bt-ads
+animeloli.com###link_h_movie_ad
+animeloli.com##header
+animeloli.com###link_h_movie_ad
+
+! 
+akibatan.com##.td-logo-wrap-full
+akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
+anime-lunla.com##div.r300x250
+anime-ox.com##div.container:nth-of-type(1)
+anime-thclub.com##strong#xaab
+animeranku.com##.theiaStickySidebar #ads300_250-widget-4
+hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
+hime-anime.com##body>div.hide
+https://misa-anime.com/assets/js/ads.core.js?
+miruanime.net##div.miru-blockads
+miruanime.net##div.spu-bg
+miruanime.net##div.spu-box
+misa-anime.com##div#p9fe
+neko-miku.com##.col-md-8
+neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
+neko-miku.com##.panel-default.panel:nth-of-type(2)
+neko-miku.com##.panel-default.panel:nth-of-type(3)
+neko-miku.com##body>div.hide
+neko-miku.com##center>div.img-thumbnail
+snipertopanime.net##div#sitefocus
+snipertopanime.net##div.pcb > div:nth-of-type(3)
+snipertopanime.net##div.pcb > div:nth-of-type(5)
+toonzaa.com##a[href*='http://45.gs']
+toonzaa.com##center center a
+www.gg-anime.com###nav-wrapper > a[target="_blank"]
+www.king-anime.com###spc
+www.nice-anime.com###M192293ScriptRootC68553
+www.nice-anime.com###M192293ScriptRootC68556
+www.nice-anime.com###head-content > div:nth-of-type(2)
+www.nice-anime.com###text-11
+www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
+www.rock-anime.com##.container:nth-of-type(2)
+www.rock-anime.com##.panel-body > center
+||www.am4th.com/wp-content/uploads/2016/*$image
+||www.am4th.com/wp-content/uploads/2017/*$image
+||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
+animedd.xyz##.img-thumbnail:not([src^="https://animedd.xyz/"])
+animedd.xyz##[href*="casino"]
+animedd.xyz###floating_banner_top
+||i.imgur.com$domain=animedd.xyz
+animedd.xyz##[src="https://i.imgur.com/5Q894WW.jpg"]
+animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
+animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
+animedd.xyz###link_h_movie_ad
+||publish.iptvz.net$subdocument
+animekimi.com##.module_home_x
+www.animelolo.com##.row > center
+www.animelolo.com##.imgbanner
+anime-master.com##div.container > .row > .center_lnwphp
+anime-master.com##div[id=slider-b]
+anime-master.com##center:nth-of-type(2)
+anime-master.com##center:nth-of-type(4)
+
+! Category hentai
 ! https://anime-h.com
 anime-h.com##.bottom-2x.text-center
 
-! category doujin
+! Category doujin
 ! https://miku-doujin.com
 miku-doujin.com##.mb-3.text-center.container
 miku-doujin.com##center:nth-of-type(1)

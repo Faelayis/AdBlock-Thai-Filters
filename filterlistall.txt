@@ -1,11 +1,11 @@
 ! Title: AdsBlockThaiFilters
-! Version: 22.3.2021.01
+! Version: 22.3.2021.02
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
 ! Discord: F1rstStr0ke#2924
 
-! category Anime
+! Category Anime
 ! https://www.animelolo.com
 www.animelolo.com##.row > center:nth-of-type(1)
 www.animelolo.com##center:nth-of-type(1)
@@ -112,18 +112,100 @@ www.animesiam.com##.close-left
 www.anime-suba.com##.figure02
 www.anime-suba.com###ligh
 
-! category hentai
+! https://anime-i.com
+anime-i.com##.banner-top
+anime-i.com##.textwidget > div:nth-of-type(3)
+anime-i.com##.textwidget > div:nth-of-type(4)
+anime-i.com/files/banner/*
+
+! https://anime-sugoi.com
+anime-sugoi.com##center > br
+anime-sugoi.com###slider-l
+anime-sugoi.com###slider-r
+anime-sugoi.com##.row > center:nth-of-type(1)
+anime-sugoi.com##center:nth-of-type(4)
+www.anime-sugoi.com##.row > center:nth-of-type(2)
+www.anime-sugoi.com##center > center
+www.anime-sugoi.com##center:nth-of-type(3)
+www.anime-sugoi.com##center:nth-of-type(5)
+www.anime-sugoi.com##.row > .col-md-8
+www.anime-sugoi.com##.panel-body > center > a
+anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
+||www.anime-sugoi.com/css/ontop.png$image
+
+! https://animeloli.com
+animeloli.com##.imgbanner
+animeloli.com###bt-ads
+animeloli.com###link_h_movie_ad
+animeloli.com##header
+animeloli.com###link_h_movie_ad
+
+! 
+akibatan.com##.td-logo-wrap-full
+akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
+anime-lunla.com##div.r300x250
+anime-ox.com##div.container:nth-of-type(1)
+anime-thclub.com##strong#xaab
+animeranku.com##.theiaStickySidebar #ads300_250-widget-4
+hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
+hime-anime.com##body>div.hide
+https://misa-anime.com/assets/js/ads.core.js?
+miruanime.net##div.miru-blockads
+miruanime.net##div.spu-bg
+miruanime.net##div.spu-box
+misa-anime.com##div#p9fe
+neko-miku.com##.col-md-8
+neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
+neko-miku.com##.panel-default.panel:nth-of-type(2)
+neko-miku.com##.panel-default.panel:nth-of-type(3)
+neko-miku.com##body>div.hide
+neko-miku.com##center>div.img-thumbnail
+snipertopanime.net##div#sitefocus
+snipertopanime.net##div.pcb > div:nth-of-type(3)
+snipertopanime.net##div.pcb > div:nth-of-type(5)
+toonzaa.com##a[href*='http://45.gs']
+toonzaa.com##center center a
+www.gg-anime.com###nav-wrapper > a[target="_blank"]
+www.king-anime.com###spc
+www.nice-anime.com###M192293ScriptRootC68553
+www.nice-anime.com###M192293ScriptRootC68556
+www.nice-anime.com###head-content > div:nth-of-type(2)
+www.nice-anime.com###text-11
+www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
+www.rock-anime.com##.container:nth-of-type(2)
+www.rock-anime.com##.panel-body > center
+||www.am4th.com/wp-content/uploads/2016/*$image
+||www.am4th.com/wp-content/uploads/2017/*$image
+||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
+animedd.xyz##.img-thumbnail:not([src^="https://animedd.xyz/"])
+animedd.xyz##[href*="casino"]
+animedd.xyz###floating_banner_top
+||i.imgur.com$domain=animedd.xyz
+animedd.xyz##[src="https://i.imgur.com/5Q894WW.jpg"]
+animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
+animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
+animedd.xyz###link_h_movie_ad
+||publish.iptvz.net$subdocument
+animekimi.com##.module_home_x
+www.animelolo.com##.row > center
+www.animelolo.com##.imgbanner
+anime-master.com##div.container > .row > .center_lnwphp
+anime-master.com##div[id=slider-b]
+anime-master.com##center:nth-of-type(2)
+anime-master.com##center:nth-of-type(4)
+
+! Category hentai
 ! https://anime-h.com
 anime-h.com##.bottom-2x.text-center
 
-! category doujin
+! Category doujin
 ! https://miku-doujin.com
 miku-doujin.com##.mb-3.text-center.container
 miku-doujin.com##center:nth-of-type(1)
 miku-doujin.com##center:nth-of-type(2)
 miku-doujin.com##center:nth-of-type(3)
 
-! category Movie
+! Category Movie
 ! https://www.i-moviehd.com
 ||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
 ||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
@@ -154,6 +236,32 @@ movie222hd.com##.row > .mb-1.col-xs-12
 ||movie222hd.com/wp-content/uploads/7581523.gif$image
 ||movie222hd.com/wp-content/uploads/S__24191024.gif$image
 ||movie222hd.com/wp-content/uploads/16055.gif$image
+
+! Category News
+blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
+blognone.com#@#.advertorial
+marketingoops.com###popup_countdown
+marketingoops.com##div[id^="itro_"]
+techmoblog.com###cboxWrapper
+techtalkthai.com###check-also-box
+techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
+techtalkthai.com##.wrapper-outer .background-cover
+techtalkthai.com##.e3lan-below_header
+||techtalkthai.com/wp-content/*banner*$image
+thairath.co.th##.ad-box
+thairath.co.th##.container .row .ads
+thairath.co.th##div[tabindex][style*="z-index"]
+thetechr.com##.jinda-content-block
+thetechr.com##.jinda-facebook-like-box
+thetechr.com##.jinda-overlay-background
+thetechr.com##.jinda-wrapper
+tnews.co.th###AdAsia
+tnews.co.th###myModal
+tnews.co.th###uniads
+tnews.co.th##.in.fade.modal-backdrop
+tnews.co.th##.modal
+thaivisa.com###home-friends-1
+thaivisa.com###header-friends
 
 ! credit https://adblock-thai.github.io/
 ! Version: 202012040711
@@ -517,7 +625,6 @@ lnwmanga.com###divAdsBg
 cat-translator.com###fixedban
 boss-anime.com###flt-bn
 xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
-animeloli.com###link_h_movie_ad
 gg-anime.com###main > center
 opuree.com###modalads
 a-tsuki.net###p9fe
@@ -556,9 +663,7 @@ lnwanime.com##a[rel*=noopener] > img
 kingsmanga.net##a[rel*=noreferrer] > img
 anime-master.com##a[target*=blank] > img
 newb-anime.com##a[target*=blank][rel*=noopener] > img
-anime-sugoi.com,animedd.xyz,animeloli.com,niceoppai.net,zone-anime.net##a[target=_blank] > img
 a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
-anime-sugoi.com##center > br
 lnwmanga.com##div[id*=main-ads]
 opuree.com##html:style(overflow: auto !important;)
 do-anime.com##img[alt=macau8889]
@@ -831,7 +936,6 @@ thaiware.com##div[id^="fan-exit"]
 thaiware.com##div[id^="fanback"]
 thaiware.com##div[id^="fanbox"]
 thaiware.com##div[id^="fanclose"]
-animeloli.com##header
 
 !----- filters_annoyance/thirdparty.txt -----
 
@@ -890,78 +994,6 @@ www.alpha-hen.com##.row > .col-sm-12 > section
 h-ani.com##div[id=speed_sponser]
 h-ani.com##div[id=sticky-ads]
 h-ani.com##.container-fluid > .row > .col-md-6
-
-! Anime
-akibatan.com##.td-logo-wrap-full
-akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
-anime-i.com##.banner-top
-anime-i.com##.textwidget > div:nth-of-type(3)
-anime-i.com##.textwidget > div:nth-of-type(4)
-anime-i.com/files/banner/*
-anime-lunla.com##div.r300x250
-anime-ox.com##div.container:nth-of-type(1)
-anime-sugoi.com###slider-l
-anime-sugoi.com###slider-r
-anime-sugoi.com##.row > center:nth-of-type(1)
-anime-sugoi.com##center:nth-of-type(4)
-anime-thclub.com##strong#xaab
-animeloli.com##.imgbanner
-animeloli.com###bt-ads
-animeloli.com###link_h_movie_ad
-animeranku.com##.theiaStickySidebar #ads300_250-widget-4
-hime-anime.com##.container:nth-of-type(3) > .row > .center_lnwphp
-hime-anime.com##body>div.hide
-https://misa-anime.com/assets/js/ads.core.js?
-miruanime.net##div.miru-blockads
-miruanime.net##div.spu-bg
-miruanime.net##div.spu-box
-misa-anime.com##div#p9fe
-neko-miku.com##.col-md-8
-neko-miku.com##.container:nth-of-type(3) > .row > .center_lnwphp
-neko-miku.com##.panel-default.panel:nth-of-type(2)
-neko-miku.com##.panel-default.panel:nth-of-type(3)
-neko-miku.com##body>div.hide
-neko-miku.com##center>div.img-thumbnail
-snipertopanime.net##div#sitefocus
-snipertopanime.net##div.pcb > div:nth-of-type(3)
-snipertopanime.net##div.pcb > div:nth-of-type(5)
-toonzaa.com##a[href*='http://45.gs']
-toonzaa.com##center center a
-www.anime-sugoi.com##.row > center:nth-of-type(2)
-www.anime-sugoi.com##center > center
-www.anime-sugoi.com##center:nth-of-type(3)
-www.anime-sugoi.com##center:nth-of-type(5)
-www.anime-sugoi.com##.row > .col-md-8
-www.anime-sugoi.com##.panel-body > center > a
-www.gg-anime.com###nav-wrapper > a[target="_blank"]
-www.king-anime.com###spc
-www.nice-anime.com###M192293ScriptRootC68553
-www.nice-anime.com###M192293ScriptRootC68556
-www.nice-anime.com###head-content > div:nth-of-type(2)
-www.nice-anime.com###text-11
-www.nice-anime.com##.clearfix.post-outer > div:nth-of-type(6)
-www.rock-anime.com##.container:nth-of-type(2)
-www.rock-anime.com##.panel-body > center
-||www.am4th.com/wp-content/uploads/2016/*$image
-||www.am4th.com/wp-content/uploads/2017/*$image
-||www.am4th.com/wp-content/uploads/2017/*/*.gif$image
-||www.anime-sugoi.com/css/ontop.png$image
-animedd.xyz##.img-thumbnail:not([src^="https://animedd.xyz/"])
-animedd.xyz##[href*="casino"]
-animedd.xyz###floating_banner_top
-||i.imgur.com$domain=animedd.xyz
-animedd.xyz##[src="https://i.imgur.com/5Q894WW.jpg"]
-animedd.xyz#?#.col_del:-abp-contains(ปิดป้ายนี้)
-animedd.xyz#?#div.panel-primary.panel:-abp-contains(Text Link Ads)
-animedd.xyz###link_h_movie_ad
-||publish.iptvz.net$subdocument
-animekimi.com##.module_home_x
-www.animelolo.com##.row > center
-www.animelolo.com##.imgbanner
-anime-master.com##div.container > .row > .center_lnwphp
-anime-master.com##div[id=slider-b]
-anime-master.com##center:nth-of-type(2)
-anime-master.com##center:nth-of-type(4)
 
 ! Annoyance
 /plugin-pdpa/$domain=khaosod.co.th|khaosodenglish.com|matichon.co.th|matichon*.com|prachachat.net|sentangsedtee.com|silpa-mag.com|technologychaoban.com
@@ -1444,32 +1476,6 @@ movie2uhd.com##.ad-float
 movie2uhd.com##.widgettitle-banner + a[href]
 ! www.037hddmovie.com
 ||yed365days.com/wp-content/*$image
-
-! News
-blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
-blognone.com#@#.advertorial
-marketingoops.com###popup_countdown
-marketingoops.com##div[id^="itro_"]
-techmoblog.com###cboxWrapper
-techtalkthai.com###check-also-box
-techtalkthai.com##.theiaStickySidebar > div[id^='text']:nth-of-type(1), .theiaStickySidebar > div[id^='text']:nth-of-type(2)
-techtalkthai.com##.wrapper-outer .background-cover
-techtalkthai.com##.e3lan-below_header
-||techtalkthai.com/wp-content/*banner*$image
-thairath.co.th##.ad-box
-thairath.co.th##.container .row .ads
-thairath.co.th##div[tabindex][style*="z-index"]
-thetechr.com##.jinda-content-block
-thetechr.com##.jinda-facebook-like-box
-thetechr.com##.jinda-overlay-background
-thetechr.com##.jinda-wrapper
-tnews.co.th###AdAsia
-tnews.co.th###myModal
-tnews.co.th###uniads
-tnews.co.th##.in.fade.modal-backdrop
-tnews.co.th##.modal
-thaivisa.com###home-friends-1
-thaivisa.com###header-friends
 
 ! Novel
 goshujin.tk###banner
