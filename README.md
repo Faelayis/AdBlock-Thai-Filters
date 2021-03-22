@@ -34,10 +34,14 @@ Anime Filters | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link
     </thead>
     <tbody>
       <tr>
-                <td><a href="https://animelolo.com"><img src="https://www.google.com/s2/favicons?domain=https://animelolo.com"> animelolo</a></td>
-                <td><a href="https://anime-h.com"><img src="https://www.google.com/s2/favicons?domain=https://anime-h.com"> anime-h</a></td>
-                <td><a href="https://miku-doujin.com"><img src="https://www.google.com/s2/favicons?domain=https://miku-doujin.com"> miku-doujin</a></td>
-                <td><a href="https://i-moviehd.com"><img src="https://www.google.com/s2/favicons?domain=https://i-moviehd.com"> i-moviehd</a></td>
+                <td><a href="https://animelolo.com"><img src="https://www.google.com/s2/favicons?domain=https://animelolo.com"> animelolo</a> 
+                <img alt="Website" src="https://img.shields.io/website?label=web&style=flat-square&up_message=up&url=https%3A%2F%2Fanimelolo.com"></td>
+                <td><a href="https://anime-h.com"><img src="https://www.google.com/s2/favicons?domain=https://anime-h.com"> anime-h</a> 
+                <img alt="Website" src="https://img.shields.io/website?label=web&style=flat-square&up_message=up&url=https%3A%2F%2Fanime-h.com"></td>
+                <td><a href="https://miku-doujin.com"><img src="https://www.google.com/s2/favicons?domain=https://miku-doujin.com"> miku-doujin</a> 
+                <img alt="Website" src="https://img.shields.io/website?label=web&style=flat-square&up_message=up&url=https%3A%2F%2Fmiku-doujin.com"></td>
+                <td><a href="https://i-moviehd.com"><img src="https://www.google.com/s2/favicons?domain=https://i-moviehd.com"> i-moviehd</a> 
+                <img alt="Website" src="https://img.shields.io/website?label=web&style=flat-square&up_message=up&url=https%3A%2F%2Fi-moviehd.com"></td>
               </tr><tr>
                 <td><a href="https://www.animerem.com"><img src="https://www.google.com/s2/favicons?domain=https://www.animerem.com"> animerem</a></td>
                 <td></td>
