@@ -1,10 +1,11 @@
 ! Title: AdsBlockThaiFilters
-! Version: 21.3.2021.01
+! Version: 22.3.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
 ! Discord: F1rstStr0ke#2924
 
+! category Anime
 ! https://www.animelolo.com
 www.animelolo.com##.row > center:nth-of-type(1)
 www.animelolo.com##center:nth-of-type(1)
@@ -107,19 +108,22 @@ www.animesiam.com##.close-left
 ||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_150,h_300/https://www.animesiam.com/wp-content/uploads/2021/01/SLOTXO-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-SLOTXO-THAI.jpg$image
 ||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_150/https://www.animesiam.com/wp-content/uploads/2021/03/PGslot-%E0%B8%9E%E0%B8%B5%E0%B8%88%E0%B8%B5%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95.jpg$image
 
-! https://anime-h.com
-anime-h.com##.bottom-2x.text-center
-
-! https://miku-doujin.com
-miku-doujin.com##.mb-3.text-center.container
-miku-doujin.com##center:nth-of-type(1)
-miku-doujin.com##center:nth-of-type(3)
-miku-doujin.com##center:nth-of-type(2)
-
 ! https://www.anime-suba.com
 www.anime-suba.com##.figure02
 www.anime-suba.com###ligh
 
+! category hentai
+! https://anime-h.com
+anime-h.com##.bottom-2x.text-center
+
+! category doujin
+! https://miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##center:nth-of-type(1)
+miku-doujin.com##center:nth-of-type(2)
+miku-doujin.com##center:nth-of-type(3)
+
+! category Movie
 ! https://www.i-moviehd.com
 ||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
 ||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
