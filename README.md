@@ -113,6 +113,12 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
                 <td></td>
                 <td></td>
               </tr><tr>
+                <td><a href="https://animesubthai.tv"><img src="https://www.google.com/s2/favicons?domain=https://animesubthai.tv"> animesubthai</a></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr><tr>
               </tr>
     </tbody>
   </table>

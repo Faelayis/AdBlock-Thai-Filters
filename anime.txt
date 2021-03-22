@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiAnimeFilters
-! Version: 22.3.2021.02
+! Version: 23.3.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -139,6 +139,12 @@ animeloli.com###bt-ads
 animeloli.com###link_h_movie_ad
 animeloli.com##header
 animeloli.com###link_h_movie_ad
+
+! https://animesubthai.tv
+animesubthai.tv##div#banner:nth-of-type(1)
+animesubthai.tv##div#banner:nth-of-type(2)
+animesubthai.tv##.slide.content > div#banner
+animesubthai.tv##div#banner:nth-of-type(4)
 
 ! 
 akibatan.com##.td-logo-wrap-full
