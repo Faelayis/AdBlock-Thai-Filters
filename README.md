@@ -42,13 +42,13 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
                 <td><a href="https://blognone.com"><img src="https://www.google.com/s2/favicons?domain=https://blognone.com"> blognone</a></td>
               </tr><tr>
                 <td><a href="https://www.animerem.com"><img src="https://www.google.com/s2/favicons?domain=https://www.animerem.com"> animerem</a></td>
-                <td></td>
-                <td></td>
+                <td><a href="https://hentai-thai.com"><img src="https://www.google.com/s2/favicons?domain=https://hentai-thai.com"> hentai-thai</a></td>
+                <td><a href="https://hentaithai.com/"><img src="https://www.google.com/s2/favicons?domain=https://hentaithai.com/"> hentaithai</a></td>
                 <td><a href="https://123-hd.com"><img src="https://www.google.com/s2/favicons?domain=https://123-hd.com"> 123-hd</a></td>
                 <td><a href="https://marketingoops.com"><img src="https://www.google.com/s2/favicons?domain=https://marketingoops.com"> marketingoops</a></td>
               </tr><tr>
                 <td><a href="https://animekimi.com"><img src="https://www.google.com/s2/favicons?domain=https://animekimi.com"> animekimi</a></td>
-                <td></td>
+                <td><a href="https://www.alpha-hen.com"><img src="https://www.google.com/s2/favicons?domain=https://www.alpha-hen.com"> alpha-hen</a></td>
                 <td></td>
                 <td><a href="https://movie222hd.com"><img src="https://www.google.com/s2/favicons?domain=https://movie222hd.com"> movie222hd</a></td>
                 <td><a href="https://techmoblog.com"><img src="https://www.google.com/s2/favicons?domain=https://techmoblog.com"> techmoblog</a></td>

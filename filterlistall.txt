@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 23.3.2021.01
+! Version: 24.3.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -200,9 +200,67 @@ anime-master.com##div[id=slider-b]
 anime-master.com##center:nth-of-type(2)
 anime-master.com##center:nth-of-type(4)
 
+!----- filters/category/anime_hide.txt -----
+box-manga.com,mangath.co,mgsub.com###ads728x90top
+anime-i.com###ani688
+lnwmanga.com###divAdsBg
+cat-translator.com###fixedban
+boss-anime.com###flt-bn
+xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
+gg-anime.com###main > center
+opuree.com###modalads
+a-tsuki.net###p9fe
+a-tsuki.net###player_inzad
+niceoppai.net###text-33
+gg-anime.com###top-section center
+anime-world.me##+js(abort-current-inline-script.js, appblock)
+anifume.com##+js(abort-on-property-write.js, a)
+box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
+box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
+anime-live.com##+js(nano-setInterval-booster.js)
+flix-anime.com##+js(nofab.js)
+anime-i.com##+js(overlay-buster.js)
+animedd.xyz##+js(setInterval-defuser.js, debugger)
+love-anime.com,opuree.com,xn--b3ctpu7b6c4a1a.com##+js(window.open-defuser.js)
+flix-anime.com##.active-mobile.kosana-container-m
+gg-anime.com##.entry-content > a > img
+boss-anime.com##.img-fluid
+flix-anime.com,misa-anime.com##.img-kosana
+fairyanime.com##.kosana-banner
+merlin-anime.com##.merlin_ads
+merlin-anime.com##.merlin_banner
+boss-anime.com##.module_home_x
+airi-anime.com##.movie-container a[target="blank"] > img
+anime-super.com##.movie-container.container div.text-center
+kingsmanga.net##.new-kingsmanga-section
+sololeveling.net##.pages__ad
+animedd.xyz##.panel:has-text(Ads)
+opuree.com##.show.fade.modal-backdrop
+godcat-manga.com##.text-center.m-t-20.row
+nico-anime.com##a > img.img-responsive
+gg-anime.com##a[href*=bet] > img
+anime-master.com##a[rel*=nofollow]
+anime-live.com,animedd.xyz,kingsmanga.net,lnwmanga.com,zone-anime.net##a[rel*=nofollow] > img
+lnwanime.com##a[rel*=noopener] > img
+kingsmanga.net##a[rel*=noreferrer] > img
+anime-master.com##a[target*=blank] > img
+newb-anime.com##a[target*=blank][rel*=noopener] > img
+a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
+lnwmanga.com##div[id*=main-ads]
+opuree.com##html:style(overflow: auto !important;)
+do-anime.com##img[alt=macau8889]
+
 ! Category hentai
 ! https://anime-h.com
 anime-h.com##.bottom-2x.text-center
+
+! https://hentai-thai.com
+hentai-thai.com##.col-12 > .text-center
+
+! https://www.alpha-hen.com
+www.alpha-hen.com###custom_html-10 > .custom-html-widget.textwidget
+www.alpha-hen.com###custom_html-8 > .custom-html-widget.textwidget
+www.alpha-hen.com###custom_html-9 > .custom-html-widget.textwidget
 
 ! Category doujin
 ! https://miku-doujin.com
@@ -210,6 +268,8 @@ miku-doujin.com##.mb-3.text-center.container
 miku-doujin.com##center:nth-of-type(1)
 miku-doujin.com##center:nth-of-type(2)
 miku-doujin.com##center:nth-of-type(3)
+
+! https://hentaithai.com/
 
 ! Category Movie
 ! https://www.i-moviehd.com
@@ -623,56 +683,6 @@ player/plugins/vast-*.js$script
 ||stat.in.th^
 ||truehits.net^
 ||trustmarkthai.com/callbackData/$third-party
-
-!----- filters/category/anime_hide.txt -----
-box-manga.com,mangath.co,mgsub.com###ads728x90top
-anime-i.com###ani688
-lnwmanga.com###divAdsBg
-cat-translator.com###fixedban
-boss-anime.com###flt-bn
-xn--l3ckaa2bza6cca2a6b5c8evc0g.com###i_popup_box_x
-gg-anime.com###main > center
-opuree.com###modalads
-a-tsuki.net###p9fe
-a-tsuki.net###player_inzad
-niceoppai.net###text-33
-gg-anime.com###top-section center
-anime-world.me##+js(abort-current-inline-script.js, appblock)
-anifume.com##+js(abort-on-property-write.js, a)
-box-manga.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, click)
-box-manga.com,king-anime.com,mangasubthai.com,mangath.co,mgsub.com##+js(addEventListener-defuser.js, mousedown)
-anime-live.com##+js(nano-setInterval-booster.js)
-flix-anime.com##+js(nofab.js)
-anime-i.com##+js(overlay-buster.js)
-animedd.xyz##+js(setInterval-defuser.js, debugger)
-love-anime.com,opuree.com,xn--b3ctpu7b6c4a1a.com##+js(window.open-defuser.js)
-flix-anime.com##.active-mobile.kosana-container-m
-gg-anime.com##.entry-content > a > img
-boss-anime.com##.img-fluid
-flix-anime.com,misa-anime.com##.img-kosana
-fairyanime.com##.kosana-banner
-merlin-anime.com##.merlin_ads
-merlin-anime.com##.merlin_banner
-boss-anime.com##.module_home_x
-airi-anime.com##.movie-container a[target="blank"] > img
-anime-super.com##.movie-container.container div.text-center
-kingsmanga.net##.new-kingsmanga-section
-sololeveling.net##.pages__ad
-animedd.xyz##.panel:has-text(Ads)
-opuree.com##.show.fade.modal-backdrop
-godcat-manga.com##.text-center.m-t-20.row
-nico-anime.com##a > img.img-responsive
-gg-anime.com##a[href*=bet] > img
-anime-master.com##a[rel*=nofollow]
-anime-live.com,animedd.xyz,kingsmanga.net,lnwmanga.com,zone-anime.net##a[rel*=nofollow] > img
-lnwanime.com##a[rel*=noopener] > img
-kingsmanga.net##a[rel*=noreferrer] > img
-anime-master.com##a[target*=blank] > img
-newb-anime.com##a[target*=blank][rel*=noopener] > img
-a-tsuki.net,anime-live.com##a[target=_blank] > img.img-thumbnail
-lnwmanga.com##div[id*=main-ads]
-opuree.com##html:style(overflow: auto !important;)
-do-anime.com##img[alt=macau8889]
 
 !----- filters/category/movies_block.txt -----
 */LoadingCircleYouTube.mp4$media,redirect=noop-1s.mp4,domain=dooserieshd.com|kseries.tv|ksubtv.co|ohztv.com
