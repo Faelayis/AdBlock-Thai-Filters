@@ -6,7 +6,7 @@
 ![pre-releases](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=pre-releases&style=flat-square)
 
 ## :page_facing_up: Lists (รายการ)
-List | Size | Subscribe & Add | Direct Link | tag
+List รายการ | Size ขนาด | Subscribe & Add เพิ่มเข้ารายการ | Direct Link ลิงก์โดยตรง | tag แท็ก
 |:---------:|:-------:|:-------:|:--------:|:---------:|
 Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter Size_all] | [Click][Filter Subscribe_all] | [Link][Direct_all] | ![][tag_all]
 Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link][Direct_Anime] |
