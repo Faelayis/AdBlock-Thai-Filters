@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 05.4.2021.01
+! Version: 19.4.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -146,6 +146,27 @@ animesubthai.tv##div#banner:nth-of-type(1)
 animesubthai.tv##div#banner:nth-of-type(2)
 animesubthai.tv##div#banner:nth-of-type(3)
 animesubthai.tv##div#banner:nth-of-type(4)
+
+! https://www.king-anime.com
+www.king-anime.com###ads728x90top > center
+
+! https://www.anime-kawaii.com
+www.anime-kawaii.com##div.container > .row > .center_lnwphp
+www.anime-kawaii.com##div#bottom_center_ads.banner-close:nth-of-type(5)
+www.anime-kawaii.com##div#bottom_center_ads.banner-close:nth-of-type(6)
+||1.bp.blogspot.com/-7tIUiDPZJBc/YFjBeJK8GtI/AAAAAAAB-Ws/QaUS_0DiYYIHw44ius5Qh9REwVkSAzN7QCLcBGAsYHQ/s16000/728x200%2BMC99BET.gif$image
+||1.bp.blogspot.com/-iKxLOgqiK1A/YFjCyXl3VxI/AAAAAAAB-W0/g15Og_KcCektsMNwJkukYpobPkNY-tTFACLcBGAsYHQ/s16000/728x200%2B%25E0%25B8%25A5%25E0%25B9%258A%25E0%25B8%25AD%25E0%25B8%2584%25E0%25B8%2594%25E0%25B8%25B2%25E0%25B8%25A7168.gif$image
+||1.bp.blogspot.com/-7tIUiDPZJBc/YFjBeJK8GtI/AAAAAAAB-Ws/QaUS_0DiYYIHw44ius5Qh9REwVkSAzN7QCLcBGAsYHQ/s16000/728x200%2BMC99BET.gif$image
+||1.bp.blogspot.com/-EIL4A2KN0bg/YFjC7A9eimI/AAAAAAAB-W8/JPmdhozWuP8QLFVmsW_pT8DVS2_Inox5wCLcBGAsYHQ/s16000/%25E0%25B8%259B%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%25A1%25E0%25B8%25B28888.gif$image
+||1.bp.blogspot.com/-gGRfQwXQuPg/YFjC3eIWWgI/AAAAAAAB-W4/1uY1qdn5taok7RTv_bcd8JpJ0P10GXLeQCLcBGAsYHQ/s16000/728x200-Juad88.gif$image
+||1.bp.blogspot.com/-L-j9zN8karE/YFjDJfhtn3I/AAAAAAAB-XM/SzTJP0gXo983npXY1GW0kOmW_kM9gTeCwCLcBGAsYHQ/s16000/728x200-Hydra888%2Bv1.gif$image
+||1.bp.blogspot.com/-bubK_4J0ngU/YGTCVq39rmI/AAAAAAAB-Yk/bHl6wLiRCjcvl8eNhSPNAKrMtONvxYIRwCLcBGAsYHQ/s16000/Anime_girl_dep_728x360.gif$image
+||1.bp.blogspot.com/-b84hWXpPAiY/YHcJzeitIuI/AAAAAAAB-ak/Eau2mnp5ow0gLbmpa13s6UdIhEw7Sj9ugCLcBGAsYHQ/s16000/queenslot%2B1.gif$image
+||1.bp.blogspot.com/-UxjxLdR5kK8/YFjDDrcTjSI/AAAAAAAB-XE/FvaInNS6g3U0PzAHiLpgE1YxfRT3JYZnACLcBGAsYHQ/s16000/728x200%2BUFA1919.gif$image
+||1.bp.blogspot.com/-jXIoRXjPRm0/YFjC_bSHPvI/AAAAAAAB-XA/08ODwlaogL0U822LoIYknzcckLtMPF0_QCLcBGAsYHQ/s16000/728x200%2Bbrazil999.gif$image
+||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
+||1.bp.blogspot.com/-vlzw_pzT9-0/YFjSWcpZMiI/AAAAAAAB-Xg/USElpQgxWp0o3E4EuOi0ijOazwJ5YLGzgCLcBGAsYHQ/s16000/728x200%2Blondon.gif$image
+||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
 
 ! 
 akibatan.com##.td-logo-wrap-full
