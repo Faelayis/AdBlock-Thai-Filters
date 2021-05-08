@@ -1,7 +1,7 @@
 ! Title: AdsBlockThaiFilters
-! Version: 08.5.2021.02
-! Homepage: https://github.com/Faelayis/adblock-thai-filters
-! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
+! Version: 09.5.2021.01
+! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
+! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
 ! Discord: Faelayis#2924
 
