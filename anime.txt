@@ -1,5 +1,5 @@
-! Title: AdsBlockThaiAnimeFilters
-! Version: 09.5.2021.01
+! Title: AdsBlockThaiAnimeFilter
+! Version: 09.5.2021.02
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
