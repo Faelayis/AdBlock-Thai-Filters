@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilters
-! Version: 19.4.2021.01
+! Version: 08.5.2021.01
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: F1rstStr0ke
@@ -295,6 +295,8 @@ miku-doujin.com##center:nth-of-type(3)
 
 ! Category Movie
 ! https://www.i-moviehd.com
+||www.i-moviehd.com/wp-content/uploads/2021/05/ufac4v1-2.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/05/Lockdownv1-2.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2019/10/close.png$image
 ||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-lotto432.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2021/01/728x200-UFAzeed.gif$image
