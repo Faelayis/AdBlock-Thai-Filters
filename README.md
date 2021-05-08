@@ -11,9 +11,9 @@ List รายการ | Size ขนาด | Subscribe & Add เพิ่มเ
 Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter Size_all] | [Click][Filter Subscribe_all] | [Link][Direct_all] | ![][tag_all]
 Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) | ![][Filter Size_Anime] | [Click][Filter Subscribe_Anime] | [Link][Direct_Anime] |
 
-[Filter Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt.txt&title=AdsBlockThaiFilters
-[Direct_all]: https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/filters.txt.txt
-[Filter Size_all]: https://img.shields.io/github/size/Faelayis/AdBlock-Thai-Filters/filters.txt.txt?style=flat-square
+[Filter Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt&title=AdsBlockThaiFilters
+[Direct_all]: https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/filters.txt
+[Filter Size_all]: https://img.shields.io/github/size/Faelayis/AdBlock-Thai-Filters/filters.txt?style=flat-square
 [Tag_all]: https://img.shields.io/github/v/tag/Faelayis/AdBlock-Thai-Filters?label=%20Patch&style=for-the-badge
 
 [Filter Subscribe_Anime]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/anime.txt&title=AdsBlockThaiAnimeFilters
