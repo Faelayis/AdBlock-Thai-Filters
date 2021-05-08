@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 09.5.2021.6
+! Version: 09.05.2021.06
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
