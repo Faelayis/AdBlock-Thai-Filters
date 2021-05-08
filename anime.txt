@@ -1,9 +1,9 @@
 ! Title: AdsBlockThaiAnimeFilters
 ! Version: 08.5.2021.02
-! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
-! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
-! Developer & Maintainer: F1rstStr0ke
-! Discord: F1rstStr0ke#2924
+! Homepage: https://github.com/Faelayis/adblock-thai-filters
+! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
+! Developer & Maintainer: Faelayis
+! Discord: Faelayis#2924
 
 ! Category Anime
 ! https://www.animelolo.com
