@@ -1,5 +1,5 @@
 ! Title: AdsBlockThaiFilter
-! Version: 09.5.2021.03
+! Version: 09.5.2021.04
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
@@ -1710,33 +1710,6 @@ thailandbestbeauty.com###divAdRight
 ||webtoons.com/js/lib/*_logger*
 ||webtoons.com/js/lib/dfp_helper*
 ||webtoons.com/js/lib/gak*
-
-! Script
-/plugins/add-to-any/$domain=compgamer.com|tgpl.in.th
-/plugins/popups/$script,stylesheet,domain=coregamerth.com|fmone1035.com|get1025.com|miru-anime.net|miruanime.net|shopspotapp.com
-@@||gelbooru.com/ads.js?
-||35.193.89.147
-||35.193.89.147^$popup
-||ads.bumq.com
-||cdn.popcash.net
-||cdn.popmyads.com
-||code.nytive.com
-||code.yengo.com
-||comenu.ais.co.th
-||digital.ais.co.th/file/common/js/sub-store.js
-||mds.nipa.co.th
-||metrics.brightcove.com
-||netdna-ssl.com/*/advanced-ads/
-||netdna-ssl.com/*/easy-social-share-buttons3/
-||saxp.zedo.com
-||sistacafe.com/scripts/nytive
-||sistacafe.com/scripts/truehits
-||sistacafe.com/scripts/yengo
-||srf.ais.co.th
-||thaiza.com/nodo.html
-||viu.com/ott/*/tracking/*
-||wp.com/media.go2*.*/*
-||ws-adv.ais.co.th
 
 ! Serie
 seriesubthai.co###adotai-survey-frame-container
