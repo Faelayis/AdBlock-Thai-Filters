@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 09.05.2021.06
+! Version: 17.05.2021.01
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -170,6 +170,110 @@ www.anime-kawaii.com##div#bottom_center_ads.banner-close:nth-of-type(6)
 ||1.bp.blogspot.com/-vlzw_pzT9-0/YFjSWcpZMiI/AAAAAAAB-Xg/USElpQgxWp0o3E4EuOi0ijOazwJ5YLGzgCLcBGAsYHQ/s16000/728x200%2Blondon.gif$image
 ||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
 
+! filters-pre-release.txt
+! https://linkjust.com
+||forexmab.com/$subdocument
+
+! https://linkjust.com
+linkjust.com##.banner-728x90.banner
+linkjust.com##.banner-468x60.banner
+
+! https://fx4vip.com
+fx4vip.com##.widget-area
+fx4vip.com##p > strong
+fx4vip.com##.entry-content > h2
+fx4vip.com##.entry-content > h3
+fx4vip.com##.entry-footer
+fx4vip.com##.clear.post-nav
+fx4vip.com##.clear.related-posts
+fx4vip.com##.comment-respond
+
+! https://forex-articles.com
+forex-articles.com##p > strong
+forex-articles.com##.widget-area
+||forex-articles.com/wp-content/uploads/2021/04/012657657-*.jpg$image
+forex-articles.com##h3:nth-of-type(1)
+forex-articles.com##.clear.related-posts
+forex-articles.com##.clear.post-nav
+forex-articles.com##h2:nth-of-type(2)
+forex-articles.com##.entry-content > ul
+forex-articles.com##.entry-content > h3
+forex-articles.com##.entry-footer
+
+! https://forex-articles.com
+||forex-articles.com/wp-content/uploads/2021/03/074*.jpg$image
+forex-articles.com###content > center:nth-of-type(2)
+
+! https://forexlap.com
+forexlap.com##.fadeIn.wow.widget_search.widget
+forexlap.com##.fadeIn.wow.widget_recent_entries.widget
+forexlap.com##.fadeIn.wow.widget_recent_comments.widget
+forexlap.com##.fadeIn.wow.widget_archive.widget
+forexlap.com##.fadeIn.wow.widget_categories.widget
+forexlap.com##.fadeIn.wow.widget_meta.widget
+||forexlap.com/wp-content/uploads/2021/03/099*.jpg$image
+forexlap.com##.entry-content
+forexlap.com##.entry-footer
+forexlap.com##.clear.post-nav
+forexlap.com##.clear.related-posts
+forexlap.com##.comment-respond
+forexlap.com###page > center:nth-of-type(2)
+
+! https://forex-articles.com
+||forex-articles.com/wp-content/uploads/2021/03/068*.jpg$image
+forex-articles.com##.post-cat
+forex-articles.com##.entry-title
+||forex-articles.com/wp-content/uploads/2021/03/068*.jpg$image
+
+! https://forexlap.com
+forexlap.com##.post-cat
+forexlap.com##.entry-title
+forexlap.com##.site-info
+
+! https://forex-articles.com
+forex-articles.com##.site-info
+
+! https://fx4vip.com
+fx4vip.com##.site-info
+fx4vip.com##svg
+fx4vip.com##.post-cat
+fx4vip.com##.entry-title
+fx4vip.com##center:nth-of-type(2) > center
+
+! https://linkjust.com
+linkjust.com##.copyright-container
+linkjust.com##.container-fluid
+||www.facebook.com/v3.2/plugins/customer_chat/bubble$subdocument
+||linkjust.com/cloud_theme/build/img/header.jpg$image
+
+! https://megaup.net
+megaup.net###M458395ScriptRootC703218_03d26
+megaup.net##.metaRedirectWrapperBottomAds
+megaup.net##.socialsider_opacity.socialsider_bgcolor_white.socialsider_fixed.socialsider_right_middle.socialsider.reponsiveMobileHide > ul
+
+! https://forex-articles.com
+||forex-articles.com/wp-content/uploads/2021/04/cy1642hr*.jpg$image
+||forex-articles.com/wp-content/uploads/2021/01/300*.jpg$image
+
+! https://fx4vip.com
+fx4vip.com##.entry-content > ul > li
+
+! https://forex-articles.com
+||forex-articles.com/wp-content/uploads/2021/01/044*.jpg$image
+forex-articles.com##p:nth-of-type(16)
+forex-articles.com##p:nth-of-type(15)
+forex-articles.com##p:nth-of-type(14)
+forex-articles.com##p:nth-of-type(13)
+forex-articles.com##p:nth-of-type(10)
+forex-articles.com##p:nth-of-type(8)
+forex-articles.com##p:nth-of-type(6)
+forex-articles.com##p:nth-of-type(4)
+||forex-articles.com/wp-content/uploads/2021/01/044*.jpg$image
+||forex-articles.com/wp-content/uploads/2021/04/0118*.jpg$image
+
+! https://fx4vip.com
+fx4vip.com##p:nth-of-type(8)
+
 ! 
 akibatan.com##.td-logo-wrap-full
 akibatan.com##.wpb_widgetised_column.wpb_content_element .td-a-rec.td-a-rec-id-sidebar
@@ -285,6 +389,8 @@ hentai-thai.com##.col-12 > .text-center
 www.alpha-hen.com###custom_html-10 > .custom-html-widget.textwidget
 www.alpha-hen.com###custom_html-8 > .custom-html-widget.textwidget
 www.alpha-hen.com###custom_html-9 > .custom-html-widget.textwidget
+www.alpha-hen.com###custom_html-5 > .custom-html-widget.textwidget
+www.alpha-hen.com##.sticky-dessert-inside
 
 ! Category doujin
 ! https://miku-doujin.com
