@@ -26,3 +26,6 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 [Direct_Prerelease]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/filters-pre-release.txt
 [Filter Size_Prerelease]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filters-pre-release.txt?style=flat-square
 [Tag_Prerelease]: https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=&style=for-the-badge
+
+[![ENG](https://img.shields.io/badge/language-ENG-blue?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/Filters-%5BENG%5D)
+[![TH](https://img.shields.io/badge/language-TH-red?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/Filters-%5BTH%5D)
