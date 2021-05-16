@@ -25,4 +25,4 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 [Filter_Subscribe_Prerelease]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt&title=AdsBlockThaiAnimeFilters
 [Direct_Prerelease]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/filters-pre-release.txt
 [Filter Size_Prerelease]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filters-pre-release.txt?style=flat-square
-[Tag_Prerelease]: https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=&style=flat-square
+[Tag_Prerelease]: https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=&style=for-the-badge
