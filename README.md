@@ -15,7 +15,7 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 [Filter_Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt&title=AdsBlockThaiFilters
 [Direct_all]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/filters.txt
 [Filter_Size_all]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filters.txt?style=flat-square
-[Tag_all]: https://img.shields.io/github/v/tag/F1rstStr0ke/AdBlock-Thai-Filters?label=&style=for-the-badge
+[Tag_all]: https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?label=&style=for-the-badge
 
 [Filter_Subscribe_Anime]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/anime.txt&title=AdsBlockThaiAnimeFilters
 [Direct_Anime]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/anime.txt
