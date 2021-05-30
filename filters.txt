@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 17.05.2021.01
+! Version: 31.05.2021.01
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -384,6 +384,10 @@ anime-h.com##.bottom-2x.text-center
 
 ! https://hentai-thai.com
 hentai-thai.com##.col-12 > .text-center
+||1.bp.blogspot.com/-3w2NePmzq8Y/YIGfUATNDGI/AAAAAAAARTM/W6iiuQ5AgVkjTQ5uiXaHyQkH10cXr3mbgCLcBGAsYHQ/s250/140x250%2BUFAZEED.gif$image
+||1.bp.blogspot.com/-8FjAwX2yKh4/YKO6_ZPCqdI/AAAAAAAAS1Q/UEf3nQaHGW0dwjx-Aw4eHqHpBCDSpB2bACLcBGAsYHQ/s16000/140x250%2Bhot.gif$image
+||1.bp.blogspot.com/-0XqXdm16Z-s/YIGfUFcIhVI/AAAAAAAARTU/MuCycj1Uo74FnrvhkVkPvXuEWqSF4GuAQCLcBGAsYHQ/s728/728x200%2BNewyork.gif$image
+||1.bp.blogspot.com/-wl_4qlIDIMg/YIGfVCLuXaI/AAAAAAAARTc/eobdsYfActADSTvduAzHbszBKsw-hwTQQCLcBGAsYHQ/s728/728x200%2Blondon.gif$image
 
 ! https://www.alpha-hen.com
 www.alpha-hen.com###custom_html-10 > .custom-html-widget.textwidget
@@ -415,6 +419,7 @@ miku-doujin.com##center:nth-of-type(3)
 ||www.i-moviehd.com/wp-content/uploads/2021/01/UFAC4-banner.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/05/hotgraph88.gif$image
 
 ! https://www.123-hd.com
 www.123-hd.com###banner_top > p
@@ -434,6 +439,16 @@ movie222hd.com##.row > .mb-1.col-xs-12
 ||movie222hd.com/wp-content/uploads/7581523.gif$image
 ||movie222hd.com/wp-content/uploads/S__24191024.gif$image
 ||movie222hd.com/wp-content/uploads/16055.gif$image
+
+! https://www.movie678.com
+www.movie678.com###show_ads_c1
+www.movie678.com##.notice
+||www.movie678.com/images/banners/28CRt48BEbonJ3esNCDVmwpgeS2e69NIMG_5368.GIF$image
+||www.movie678.com/images/banners/ZoFnpunMzeFoZVqPLlnfY186qyebnPk160x600_Newyork888.gif$image
+||www.movie678.com/images/banners/wpJ2yYqutG8qTbAUtOdurW8kPM7GyMe160x600_London168.gif$image
+||www.movie678.com/images/banners/kXRU35Jgo310FdGSzRxPtHyXMECMF4Oguslot160x600.gif$image
+||www.movie678.com/images/banners/avJEcO51A4UGHS2Yvt6YelBPOvSCGSccontact.gif$image
+||www.movie678.com/images/banners/*$image
 
 ! Category News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]

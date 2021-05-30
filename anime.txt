@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiAnimeFilter
-! Version: 17.05.2021.01
+! Version: 31.05.2021.01
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -280,6 +280,10 @@ anime-h.com##.bottom-2x.text-center
 
 ! https://hentai-thai.com
 hentai-thai.com##.col-12 > .text-center
+||1.bp.blogspot.com/-3w2NePmzq8Y/YIGfUATNDGI/AAAAAAAARTM/W6iiuQ5AgVkjTQ5uiXaHyQkH10cXr3mbgCLcBGAsYHQ/s250/140x250%2BUFAZEED.gif$image
+||1.bp.blogspot.com/-8FjAwX2yKh4/YKO6_ZPCqdI/AAAAAAAAS1Q/UEf3nQaHGW0dwjx-Aw4eHqHpBCDSpB2bACLcBGAsYHQ/s16000/140x250%2Bhot.gif$image
+||1.bp.blogspot.com/-0XqXdm16Z-s/YIGfUFcIhVI/AAAAAAAARTU/MuCycj1Uo74FnrvhkVkPvXuEWqSF4GuAQCLcBGAsYHQ/s728/728x200%2BNewyork.gif$image
+||1.bp.blogspot.com/-wl_4qlIDIMg/YIGfVCLuXaI/AAAAAAAARTc/eobdsYfActADSTvduAzHbszBKsw-hwTQQCLcBGAsYHQ/s728/728x200%2Blondon.gif$image
 
 ! https://www.alpha-hen.com
 www.alpha-hen.com###custom_html-10 > .custom-html-widget.textwidget
