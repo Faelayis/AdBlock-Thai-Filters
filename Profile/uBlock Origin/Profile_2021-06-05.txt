@@ -1,0 +1,63 @@
+{
+  "timeStamp": 1622867471500,
+  "version": "1.35.2",
+  "userSettings": {
+    "cloudStorageEnabled": true,
+    "externalLists": "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
+    "importedLists": [
+      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt",
+      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt"
+    ],
+    "popupPanelSections": 15,
+    "tooltipsDisabled": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "adguard-generic",
+    "adguard-mobile",
+    "easylist",
+    "adguard-spyware",
+    "easyprivacy",
+    "urlhaus-1",
+    "spam404-0",
+    "adguard-annoyance",
+    "adguard-social",
+    "fanboy-thirdparty_social",
+    "fanboy-annoyance",
+    "ublock-annoyances",
+    "dpollock-0",
+    "mvps-0",
+    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
+    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "# about-scheme",
+    "# chrome-extension-scheme",
+    "# chrome-scheme",
+    "# edge-scheme",
+    "# moz-extension-scheme",
+    "# opera-scheme",
+    "# vivaldi-scheme",
+    "# wyciwyg-scheme",
+    "adfoc.us",
+    "client.falixnodes.net",
+    "control.idley.gg",
+    "discord.com",
+    "megaup.net",
+    "panel.falixnodes.net",
+    "popularmmos.com",
+    "premid.app",
+    "splix.io",
+    "uptimerobot.com"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "",
+  "userFilters": ""
+}
