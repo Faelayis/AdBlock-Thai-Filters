@@ -1,8 +1,7 @@
 {
-  "timeStamp": 1622867471500,
+  "timeStamp": 1622867922092,
   "version": "1.35.2",
   "userSettings": {
-    "cloudStorageEnabled": true,
     "externalLists": "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
     "importedLists": [
       "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt",
