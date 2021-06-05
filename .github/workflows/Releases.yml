@@ -1,0 +1,49 @@
+name: Build Next.js web application
+on: push
+jobs:
+build-project:
+  name: Build Project
+  runs-on: ubuntu-latest
+  steps:
+  - name: Checkout code
+    uses: actions/checkout@v2
+  - name: Install NPM dependencies
+    run: npm install
+  - name: Build project assets
+    run: npm run build
+    - name: Upload static test
+  uses: actions/upload-artifact@v2
+  with:
+    name: static-test
+    path: .next/
+    release-project:
+  name: Release Project
+  runs-on: ubuntu-latest
+  needs: build-project
+  - name: Download test content
+  uses: actions/download-artifact@v2
+  with:
+    name: test-build
+    - name: View content
+  run: ls -R
+  - name: Create GitHub release
+  id: create-new-release
+  uses: actions/create-release@v1
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  with:
+    tag_name: ${{ github.run_number }}
+    release_name: Release ${{ github.run_number }}
+    - name: Archive test content
+  uses: thedoctor0/zip-release@master
+  with:
+    filename: test.zip
+    - name: Upload release asset
+  uses: actions/upload-release-asset@v1
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  with:
+    upload_url: ${{ steps.create-new-release.outputs.upload_url }}
+    asset_path: ./test.zip
+    asset_name: test-v${{ github.run_number }}.zip
+    asset_content_type: application/zip
