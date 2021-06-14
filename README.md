@@ -1,14 +1,14 @@
 # Ads Block Thai Filters
-![Last-commit](https://img.shields.io/github/last-commit/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
-![Stars](https://img.shields.io/github/stars/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
-![License](https://img.shields.io/github/license/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
-![release](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)
-![pre-releases](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=pre-releases&style=flat-square)
+[![Last-commit](https://img.shields.io/github/last-commit/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/commits/master)
+[![Stars](https://img.shields.io/github/stars/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/stargazers)
+[![License](https://img.shields.io/github/license/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/blob/master/LICENSE)
+[![release](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
+[![pre-releases](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=pre-releases&style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
 
 ## :page_facing_up: Lists (รายการ)
 List รายการ | Size ขนาด | Subscribe & Add เพิ่มเข้ารายการ | Direct Link ลิงก์โดยตรง | Releases
 |:---------:|:-------:|:-------:|:--------:|:---------:|
-Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter_Size_all] | [Click][Filter_Subscribe_all] | [Link][Direct_all] | ![][tag_all]
+Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter_Size_all] | [Click][Filter_Subscribe_all] | [Link][Direct_all] | [![tag_all]](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
 Thai Ads all Filters Pre-release (ทดสอบก่อนปล่อยจริง) | ![][Filter Size_Prerelease] | [Click][Filter_Subscribe_Prerelease] | [Link][Direct_Prerelease] | ![][Tag_Prerelease]
 Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) | ![][Filter_Size_Anime] | [Click][Filter_Subscribe_Anime] | [Link][Direct_Anime] |
 
