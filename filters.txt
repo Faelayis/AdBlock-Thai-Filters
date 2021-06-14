@@ -170,6 +170,7 @@ www.anime-kawaii.com##div#bottom_center_ads.banner-close:nth-of-type(6)
 ||1.bp.blogspot.com/-vlzw_pzT9-0/YFjSWcpZMiI/AAAAAAAB-Xg/USElpQgxWp0o3E4EuOi0ijOazwJ5YLGzgCLcBGAsYHQ/s16000/728x200%2Blondon.gif$image
 ||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
 
+! Other
 ! filters-pre-release.txt
 ! https://linkjust.com
 ||forexmab.com/$subdocument
@@ -273,6 +274,20 @@ forex-articles.com##p:nth-of-type(4)
 
 ! https://fx4vip.com
 fx4vip.com##p:nth-of-type(8)
+
+! https://mawtoload.com
+||i2.wp.com/mawtoload.com/wp-content/uploads/2021/06/close-gif.png$image
+||i2.wp.com/mawtoload.com/wp-content/uploads/2021/06/close-gif.png$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/140x250-brazil999.gif?w=140&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/140x250-UFAZEED.gif?w=140&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-lotto432.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-Lockdown168v2.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-Lockdown168v2.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-hot.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-mahagame88.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-UFA1919.gif?w=700&ssl=1$image
+||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-Hydra888-v1.gif?w=700&ssl=1$image
 
 ! 
 akibatan.com##.td-logo-wrap-full
