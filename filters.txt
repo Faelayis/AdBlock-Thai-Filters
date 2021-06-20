@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 14.06.2021.02
-! Expires: 4 days (update frequency)
+! Version: 20.06.2021.01
+! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
-! Discord: Faelayis#2924
+! Discord: Faelayis#1111
 
 ! Category Anime
 ! https://www.animelolo.com
@@ -288,6 +288,15 @@ fx4vip.com##p:nth-of-type(8)
 ||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-mahagame88.gif?w=700&ssl=1$image
 ||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-UFA1919.gif?w=700&ssl=1$image
 ||i0.wp.com/mawtoload.com/wp-content/uploads/2021/05/728x200-Hydra888-v1.gif?w=700&ssl=1$image
+||mawtoload.com/wp-content/uploads/2021/06/140x250-UFAZEED.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/140x250-brazil999.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-lotto432.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-Lockdown168v2.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-hot.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B28888.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-mahagame88.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-UFA1919.webp$image
+||mawtoload.com/wp-content/uploads/2021/06/728x200-Hydra888-v1.webp$image
 
 ! 
 akibatan.com##.td-logo-wrap-full
