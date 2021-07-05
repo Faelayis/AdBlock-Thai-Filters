@@ -5,11 +5,11 @@
 [![release](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
 [![pre-releases](https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=pre-releases&style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
 
-## :page_facing_up: Lists (รายการ)
-List รายการ | Size ขนาด | Subscribe & Add เพิ่มเข้ารายการ | Direct Link ลิงก์โดยตรง | Releases
-|:---------:|:-------:|:-------:|:--------:|:---------:|
-Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter_Size_all] | [Click][Filter_Subscribe_all] | [Link][Direct_all] | [![tag_all]](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/releases)
-Thai Ads all Filters Pre-release (ทดสอบก่อนปล่อยจริง) | ![][Filter Size_Prerelease] | [Click][Filter_Subscribe_Prerelease] | [Link][Direct_Prerelease] | ![][Tag_Prerelease]
+## :page_facing_up: Lists (รายการสำหรับประเทศไทย)
+List รายการ | Size ขนาด | Subscribe & Add เพิ่มเข้ารายการ | Direct Link ลิงก์โดยตรง
+|:---------:|:-------:|:-------:|:--------:
+Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter_Size_all] | [Click][Filter_Subscribe_all] | [Link][Direct_all] |
+Thai Ads all Filters Pre-release (ทดสอบก่อนปล่อยจริง) | ![][Filter Size_Prerelease] | [Click][Filter_Subscribe_Prerelease] | [Link][Direct_Prerelease] 
 Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) | ![][Filter_Size_Anime] | [Click][Filter_Subscribe_Anime] | [Link][Direct_Anime] |
 
 [Filter_Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt&title=AdsBlockThaiFilters
@@ -26,6 +26,19 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 [Direct_Prerelease]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/filters-pre-release.txt
 [Filter Size_Prerelease]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/filters-pre-release.txt?style=flat-square
 [Tag_Prerelease]: https://img.shields.io/github/v/release/F1rstStr0ke/AdBlock-Thai-Filters?include_prereleases&label=&style=for-the-badge
+
+## :page_facing_up: Profile
+
+Profile รายการ | Size ขนาด | Download Profile | Direct Link ลิงก์โดยตรง | Extension
+|:---------:|:-------:|:-------:|:--------:|:--------:|
+Ads Block All (บล็อกโฆษณาทั้งหมด) | ![][Profile_Size] | [Click][Profile_Download] | [Raw][Profile_Direct] | [uBlock Origin][uBlock_Origin_link]
+
+[Profile_Download]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/blob/master/Profile/uBlock%20Origin/Profile.txt
+[Profile_Direct]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Profile.txt
+[Profile_Size]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/Profile/uBlock%2520Origin/Profile.txt?style=flat-square
+[uBlock_Origin_link]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+#### [วิธีติดตั้งโปรไฟล์](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/import-Profile)<br>
 
 [![ENG](https://img.shields.io/badge/language-ENG-blue?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/Filters-%5BENG%5D)
 [![TH](https://img.shields.io/badge/language-TH-red?style=flat-square)](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/Filters-%5BTH%5D)
