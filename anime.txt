@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiAnimeFilter
-! Version: 31.05.2021.01
+! Version: 09.07.2021.01
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -291,6 +291,11 @@ www.alpha-hen.com###custom_html-8 > .custom-html-widget.textwidget
 www.alpha-hen.com###custom_html-9 > .custom-html-widget.textwidget
 www.alpha-hen.com###custom_html-5 > .custom-html-widget.textwidget
 www.alpha-hen.com##.sticky-dessert-inside
+
+! https://hanimesubth.com
+||i.ibb.co/L8p9H62/ufac4.webp$image
+||i.ibb.co/sWNcKp4/kingdom66.webp$image
+||1.bp.blogspot.com/-KMJpreRrYR0/YJqCIYNdAJI/AAAAAAAAEuc/cyEO6dw_lSo6ia9OdQhNglcYUBbph9r-QCLcBGAsYHQ/s0/lockdown168.webp$image
 
 ! Category doujin
 ! https://miku-doujin.com
