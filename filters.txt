@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 09.07.2021.01
+! Version: 09.07.2021.02
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -450,6 +450,9 @@ miku-doujin.com##center:nth-of-type(3)
 ||www.i-moviehd.com/wp-content/uploads/2021/02/Newyork-x.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2020/11/728x90UFA1919.gif$image
 ||www.i-moviehd.com/wp-content/uploads/2021/05/hotgraph88.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/06/hotgraphv229.gif$image
+||www.i-moviehd.com/wp-content/uploads/2020/12/hydra728.gif$image
+||www.i-moviehd.com/wp-content/uploads/2021/02/brazil999.gif$image
 
 ! https://www.123-hd.com
 www.123-hd.com###banner_top > p
