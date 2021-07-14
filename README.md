@@ -29,14 +29,24 @@ Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) 
 
 ## :page_facing_up: Profile
 
-Profile รายการ | Size ขนาด | Download Profile | Direct Link ลิงก์โดยตรง | Extension
-|:---------:|:-------:|:-------:|:--------:|:--------:|
-Ads Block All (บล็อกโฆษณาทั้งหมด) | ![][Profile_Size] | [Click][Profile_Download] | [Raw][Profile_Direct] | [uBlock Origin][uBlock_Origin_link]
+Profile รายการ | Size ขนาด | Download Profile | Direct Link ลิงก์โดยตรง | Extension | Memory footprint
+|:---------:|:-------:|:-------:|:--------:|:--------:|:--------:|
+Lite | ![][Profile_Size_Lite] | [Click][Profile_Download_Lite] | [Raw][Profile_Direct_Lite] | [uBlock Origin][uBlock_Origin_link_Lite] | 38652K +
+Ultimate | ![][Profile_Size_Ultimate] | [Click][Profile_Download_Ultimate] | [Raw][Profile_Direct_Ultimate] | [uBlock Origin][uBlock_Origin_link_Ultimate] | 59356K +
 
-[Profile_Download]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/blob/master/Profile/uBlock%20Origin/Profile.txt
-[Profile_Direct]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Profile.txt
-[Profile_Size]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/Profile/uBlock%2520Origin/Profile.txt?style=flat-square
-[uBlock_Origin_link]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+[Profile_Size_Lite]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/Profile/uBlock%2520Origin/Lite.txt?style=flat-square
+[Profile_Download_Lite]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/blob/master/Profile/uBlock%20Origin/Lite.txt
+[Profile_Direct_Lite]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Lite.txt
+[uBlock_Origin_link_Lite]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+[Profile_Size_Ultimate]: https://img.shields.io/github/size/F1rstStr0ke/AdBlock-Thai-Filters/Profile/uBlock%2520Origin/Ultimate.txt?style=flat-square
+[Profile_Download_Ultimate]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/blob/master/Profile/uBlock%20Origin/Ultimate.txt
+[Profile_Direct_Ultimate]: https://raw.githubusercontent.com/F1rstStr0ke/AdBlock-Thai-Filters/master/Profile/uBlock%20Origin/Ultimate.txt
+[uBlock_Origin_link_Ultimate]: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+## ❔ Guide
+Lite - Privacy and Block Ads Malware Tracking<br>
+Ultimate - Privacy and Block Abuse Ads Annoyances Fraud Malware Phishing Ransomware Redirect Scam TikTok Tracking Cookie [info](https://github.com/blocklistproject/Lists#main-lists)<br>
 
 #### [วิธีติดตั้งโปรไฟล์](https://github.com/F1rstStr0ke/AdBlock-Thai-Filters/wiki/import-Profile)<br>
 
