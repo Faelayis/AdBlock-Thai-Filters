@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 14.07.2021.01
+! Version: 17.07.2021.01
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
 ! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
@@ -483,6 +483,77 @@ www.movie678.com##.notice
 ||www.movie678.com/images/banners/kXRU35Jgo310FdGSzRxPtHyXMECMF4Oguslot160x600.gif$image
 ||www.movie678.com/images/banners/avJEcO51A4UGHS2Yvt6YelBPOvSCGSccontact.gif$image
 ||www.movie678.com/images/banners/*$image
+
+! https://tvallseries.com
+tvallseries.com##.module_single_ads
+||tvallseries.com/wp-content/uploads/2021/05/slot11-4.gif$image
+
+! https://037moviefree.com
+||037moviefree.com/images/banners/IcgOFSv280aonQoHfk735V4NwSYb5IfA1111.jpg$image
+||037moviefree.com/images/banners/ZLQE7YSnC2Wfh65GyjLzMwJgOmyw7dTcasino-1.gif$image
+||037moviefree.com/images/banners/jXnQOXTAHivDf5DxeM9qbhwy0co4Ut3Sexy-Gaming-1.png$image
+
+! https://www.rak-series.com
+www.rak-series.com###ads728x90top > center > div.custom-html-widget.textwidget > center
+www.rak-series.com###fix_footer2 > div > div.custom-html-widget.textwidget
+www.rak-series.com###ads_fix_footer > div
+www.rak-series.com##.su-tabs-pane-open.su-u-trim.su-u-clearfix.su-tabs-pane > center
+||i.imgur.com/t4BZNQ0.gif$image
+
+! https://www.doomovie-hd.com
+www.doomovie-hd.com##.x > .side_floating_ad_close_btn > span
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad > .b
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b
+www.doomovie-hd.com##.x2 > .side_floating_ad_close_btn > span
+www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad
+www.doomovie-hd.com##.x
+www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad
+||www.img04.xyz/assets/img/banner-new/MV7.jpg$image
+www.doomovie-hd.com##.topad_mid
+www.doomovie-hd.com##td.topad_side:nth-of-type(3)
+www.doomovie-hd.com##td.topad_side:nth-of-type(1)
+www.doomovie-hd.com##.h-100.w-100
+www.doomovie-hd.com##.topad_container
+||www.img04.xyz/assets/img/banner-new/MV7.jpg$image
+www.doomovie-hd.com##div.text-center.horizontal-ad-bar2:nth-of-type(8)
+||www.img04.xyz/assets/img/banner-new/M6.jpg$image
+
+! https://www.nanamovies.me
+||2.bp.blogspot.com/-TH3crfyEKK8/Xit_Os3PBHI/AAAAAAAAGkg/mD0LZAYeXdg67syyCCGvfjxeRJhzfwlbgCLcBGAsYHQ/s1600/SAGAME350-R.gif$image
+||1.bp.blogspot.com/-foxQgeELe3Q/X09hBWSXI1I/AAAAAAAAH50/VjCCP7iqgYo12B-NI4LSJZsGWxbP6-GmACLcBGAsYHQ/s0/k9th.gif$image
+||2.bp.blogspot.com/-TH3crfyEKK8/Xit_Os3PBHI/AAAAAAAAGkg/mD0LZAYeXdg67syyCCGvfjxeRJhzfwlbgCLcBGAsYHQ/s1600/SAGAME350-R.gif$image
+||1.bp.blogspot.com/-foxQgeELe3Q/X09hBWSXI1I/AAAAAAAAH50/VjCCP7iqgYo12B-NI4LSJZsGWxbP6-GmACLcBGAsYHQ/s0/k9th.gif$image
+||1.bp.blogspot.com/-_wyiz4aeQug/YAi4922SsrI/AAAAAAAAJVI/l42kawpxcj4FAUxEdD9tfiJM0ZlWHeTAwCLcBGAsYHQ/s0/ufa365s.gif$image
+||1.bp.blogspot.com/-k40dYwDoFQQ/YO5CclnvV0I/AAAAAAAACJs/_-bGhq1IAvMqADAffVJ9zajSD_Gbd_FwACLcBGAsYHQ/s0/ole777.gif$image
+||1.bp.blogspot.com/-AEEDHig11aI/YK6yzUEmZII/AAAAAAAABz0/KB0cy9yIKYU0r9YEwU9LO9LyNqbo-8r1gCLcBGAsYHQ/s0/UFABET8X.gif$image
+||4.bp.blogspot.com/-hAtVl4El88M/Xxq83wX9eMI/AAAAAAAAH1M/E0Z13wdFqFskz7ZJn6RsNwbEs0I3ZWeLACLcBGAsYHQ/s1600/ssgame350.gif$image
+||1.bp.blogspot.com/-d3Q4qteoSmE/YOYwtY9gzhI/AAAAAAAACGE/dDmh5BgRGtMo10D3ZrgeDB5C3OhM1OQPQCLcBGAsYHQ/s0/188bet.gif$image
+||1.bp.blogspot.com/-RVXLlrlfsR0/XkqAm98motI/AAAAAAAAGqA/kSef80o8pF4S8Hp-E2BA3eq7FxdYvtSYACLcBGAsYHQ/s1600/UFA350.gif$image
+||4.bp.blogspot.com/-8xdJ2ycItH8/XwNeb3yJTdI/AAAAAAAAHyk/uIu0dX3gO_AjC6NdMt1IOn-j9_79dR7YQCLcBGAsYHQ/s1600/sagame350.gif$image
+||1.bp.blogspot.com/-8Wyf5ibzGXE/YLX9hx4okII/AAAAAAAAB14/FPuzb-W1xkEqHup06Oc-tbFgOcxlK8S8wCLcBGAsYHQ/s0/sbobet.gif$image
+||4.bp.blogspot.com/-gCIpuoldl-c/XlePvDxZfMI/AAAAAAAAGrU/z4lYZbZp0KEGW9rD3EpGjxgZOJ5NO7YHwCLcBGAsYHQ/s1600/coin365th.gif$image
+||1.bp.blogspot.com/-SckDhwbVn7A/YOzmoAm8aDI/AAAAAAAACJA/J5g2LJDs4R8DkbFSFkvNHyyN1025aSh0wCLcBGAsYHQ/s0/dafabet.gif$image
+||4.bp.blogspot.com/-iJoR3AHMym4/XoSIQWMaBqI/AAAAAAAAHis/q-luSdkiddUglR7uzuHW67amxIbKgN03gCLcBGAsYHQ/s1600/fafa191.gif$image
+||1.bp.blogspot.com/-Z3IpThyRXPw/YK6yzV-UE2I/AAAAAAAABzw/Y5cCFkzFufUpCaoYHRqVPRvKuErE6QqkgCLcBGAsYHQ/s0/ufabetxxx.gif$image
+
+! https://hot-series.com
+hot-series.com##.pr-3.pl-3.banner.justify-content-center.row
+
+! https://doomovieth.com
+doomovieth.com##div.text-center.mb-1.col-20.col-md-20.col-lg-20 > [href] > .img-fluid
+
+! https://javoxox.com
+javoxox.com##.px-2.pt-4.row > div.text-center.mb-1.col-20.col-md-20.col-lg-20 > [href] > .img-fluid
+||javoxox.com/images/banners/Xvx9My4893JqeC9GkyNxRS5AbEm8f6YC-_Users_Passex-04_Desktop_New-folder_19-10-63_%E0%B8%AD%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0-2.gif$image
+javoxox.com###show_ads_c1
+javoxox.com##.m-1.text-center.mb-1.col-20.col-md-20.col-lg-20
+||javoxox.com/images/banners/73lU2DMWbE4hJ2InAbJVDplTb5e4GGG728-90.gif$image
+||javoxox.com/images/banners/aOryHAu8ltqTzLPhTGKR1D9HKyyTSMz728-90.gif$image
+||javoxox.com/images/banners/0WCTy5hI1qQpMikIdK9bN0r7nRAAZDR250-250.gif$image
+
+! https://tvallseries.com
+||tvallseries.com/wp-content/uploads/2021/05/joker11-5.gif$image
+||tvallseries.com/wp-content/uploads/2021/05/pretty11-4.gif$image
 
 ! Category News
 blognone.com###rightbottom_sidebar .region div[id^="block-views-jobs"]
