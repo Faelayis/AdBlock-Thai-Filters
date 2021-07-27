@@ -2,10 +2,10 @@
   "timeStamp": 1625411013002,
   "version": "1.36.0",
   "userSettings": {
-    "externalLists": "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
+    "externalLists": "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt",
     "importedLists": [
-      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt",
-      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt"
+      "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt",
+      "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt"
     ]
   },
   "selectedFilterLists": [
@@ -23,8 +23,8 @@
     "spam404-0",
     "dpollock-0",
     "mvps-0",
-    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
-    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt"
+    "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt",
+    "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt"
   ],
   "hiddenSettings": {},
   "whitelist": [

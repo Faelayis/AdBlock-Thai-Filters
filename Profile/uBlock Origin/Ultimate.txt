@@ -2,7 +2,7 @@
   "timeStamp": 1626236858409,
   "version": "1.36.2",
   "userSettings": {
-    "externalLists": "https://blocklistproject.github.io/Lists/abuse.txt\nhttps://blocklistproject.github.io/Lists/ads.txt\nhttps://blocklistproject.github.io/Lists/fraud.txt\nhttps://blocklistproject.github.io/Lists/malware.txt\nhttps://blocklistproject.github.io/Lists/phishing.txt\nhttps://blocklistproject.github.io/Lists/ransomware.txt\nhttps://blocklistproject.github.io/Lists/redirect.txt\nhttps://blocklistproject.github.io/Lists/scam.txt\nhttps://blocklistproject.github.io/Lists/tiktok.txt\nhttps://blocklistproject.github.io/Lists/tracking.txt\nhttps://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
+    "externalLists": "https://blocklistproject.github.io/Lists/abuse.txt\nhttps://blocklistproject.github.io/Lists/ads.txt\nhttps://blocklistproject.github.io/Lists/fraud.txt\nhttps://blocklistproject.github.io/Lists/malware.txt\nhttps://blocklistproject.github.io/Lists/phishing.txt\nhttps://blocklistproject.github.io/Lists/ransomware.txt\nhttps://blocklistproject.github.io/Lists/redirect.txt\nhttps://blocklistproject.github.io/Lists/scam.txt\nhttps://blocklistproject.github.io/Lists/tiktok.txt\nhttps://blocklistproject.github.io/Lists/tracking.txt\nhttps://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt\nhttps://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt",
     "ignoreGenericCosmeticFilters": true,
     "importedLists": [
       "https://blocklistproject.github.io/Lists/abuse.txt",
@@ -15,8 +15,8 @@
       "https://blocklistproject.github.io/Lists/scam.txt",
       "https://blocklistproject.github.io/Lists/tiktok.txt",
       "https://blocklistproject.github.io/Lists/tracking.txt",
-      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt",
-      "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
+      "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt",
+      "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt",
       "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt"
     ],
     "popupPanelSections": 15,
@@ -46,8 +46,8 @@
     "dpollock-0",
     "mvps-0",
     "plowe-0",
-    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters.txt",
-    "https://raw.githubusercontent.com/F1rstStr0ke/adblock-thai-filters/master/filters-pre-release.txt",
+    "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt",
+    "https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters-pre-release.txt",
     "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt",
     "https://blocklistproject.github.io/Lists/abuse.txt",
     "https://blocklistproject.github.io/Lists/ads.txt",

@@ -2,7 +2,7 @@
 ! Title: AdsBlockThaiFilter Pre-release
 ! Version: 14.06.2021.03
 ! Expires: 1 days (update frequency)
-! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
-! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
+! Homepage: https://github.com/Faelayis/adblock-thai-filters
+! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
 ! Discord: Faelayis#1111

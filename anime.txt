@@ -2,8 +2,8 @@
 ! Title: AdsBlockThaiAnimeFilter
 ! Version: 09.07.2021.01
 ! Expires: 4 days (update frequency)
-! Homepage: https://github.com/F1rstStr0ke/adblock-thai-filters
-! Reporting Issues: https://github.com/F1rstStr0ke/adblock-thai-filters/issues
+! Homepage: https://github.com/Faelayis/adblock-thai-filters
+! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
 ! Developer & Maintainer: Faelayis
 ! Discord: Faelayis#2924
 
