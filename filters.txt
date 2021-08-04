@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiFilter
-! Version: 20.07.2021.02
+! Version: 04.08.2021.01
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Faelayis/adblock-thai-filters
 ! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
@@ -17,6 +17,9 @@ www.animelolo.com##center:nth-of-type(4)
 www.animelolo.com##center:nth-of-type(5)
 www.animelolo.com##center:nth-of-type(6)
 www.animelolo.com##center:nth-of-type(7)
+www.animelolo.com##.ads-images
+www.animelolo.com##.ads-banner
+www.animelolo.com##.ads-banner
 
 ! https://www.animerem.com
 www.animerem.com##.row > center
@@ -169,6 +172,31 @@ www.anime-kawaii.com##div#bottom_center_ads.banner-close:nth-of-type(6)
 ||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
 ||1.bp.blogspot.com/-vlzw_pzT9-0/YFjSWcpZMiI/AAAAAAAB-Xg/USElpQgxWp0o3E4EuOi0ijOazwJ5YLGzgCLcBGAsYHQ/s16000/728x200%2Blondon.gif$image
 ||1.bp.blogspot.com/-rDmSAde2wk0/YFjSSz_HqZI/AAAAAAAB-Xc/NPxLqszX7x0Odbb-kyReLojyrw2QQaqyACLcBGAsYHQ/s16000/728x200%2BNewyork.gif$image
+
+! https://www.anime-d.com
+www.anime-d.com##.row > center
+
+! https://anime-hayai.com
+anime-hayai.com##.header-ads > [href]
+anime-hayai.com##.ads-banners
+||1.bp.blogspot.com/-OeWfuEQ-ulo/YJmWuiS3C-I/AAAAAAAANxs/HNXrlhDJ288SbSPQzkp_PiM82YjjhINNQCLcBGAsYHQ/s0/728x90%2Bkingdom66.webp$image
+||1.bp.blogspot.com/-jvAhWKuiGUo/YJmWutgvtdI/AAAAAAAANx0/vxE9sbZJoiogAvJbYnkpjdQ4woyJZ64LQCLcBGAsYHQ/s0/728x90%2BUFAZEED.webp$image
+anime-hayai.com##.ads-banner
+
+! https://animekimi.net
+animekimi.net##.hdr
+animekimi.net##.loaded.LazyLoad.arm2
+animekimi.net##.banner-close
+animekimi.net###ads_showhide
+||i.imgur.com/*.gif$image
+animekimi.net###slider-b
+animekimi.net###kapatA > span
+animekimi.net###slider-a
+
+! https://www.kuro-manga.com
+www.kuro-manga.com##.col-12 > [href]
+www.kuro-manga.com##.body-top-ads.custom-code.c-ads.ad
+www.kuro-manga.com###bottom_center_ads
 
 ! Other
 ! https://mawtoload.com
