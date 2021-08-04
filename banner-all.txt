@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiBannerAll
-! Version: 04.08.2021.02
+! Version: 04.08.2021.03
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Faelayis/adblock-thai-filters
 ! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
@@ -14,7 +14,6 @@
 *##[href="http://ufabetxxx.com"]
 *##[href="http://ufabet8x.com"]
 *##[href="https://www.ptgame88.com"]
-*##[href="https://lihi1.cc/Goy7G"]
 *##[href="https://luca-asia.com"]
 *##[href="https://databet.club/"]
 *##[href="https://wmbet444.com/aff/kimuch"]
@@ -25,13 +24,15 @@
 *##[href="https://www.texas789.com/"]
 *##[href="https://aka555.com/"]
 *##[href="https://www.ruayz.com/"]
-*##[href="https://lihi1.cc/MYsda"]
 *##[href="https://ufax891.net/"]
 *##[href="https://188th.co/JJAnimeRem"]
 *##[href="https://ufa8x.com/blog/baccarat-formula-sa-gaming/"]
+*##[href*="https://lihi1.cc/"]
 *##[href*="https://bit.ly/"]
 *##[href*="https://luca-asia.com/"]
 *##[href*="https://alpha88.com/tracker"]
+*##[href*="https://scr99thai.com/"]
+*##[href*="https://affnew.s3-ap-southeast-1.amazonaws.com/"]
 *##[href^="https://1688sagame.com"]
 *##[href^="https://panama888.com"]
 *##[href^="https://1688sagame.com"]
@@ -85,7 +86,6 @@
 *##[href^="https://www.sagame350.bet/baccarat/"]
 *##[href^="https://www.ufa350.bet"]
 *##[href^="https://www.ssgame350.com/baccarat/"]
-*##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/hengjing168.aff.html"]
 *##[href^="https://168superslot.com"]
 *##[href^="https://www.ufabet168.info"]
 *##[href^="https://ufabetxxx.com"]
@@ -93,14 +93,12 @@
 *##[href^="https://luca99th.com"]
 *##[href^="https://ufabet99th.com"]
 *##[href^="https://baccarat99th.com"]
-*##[href^="https://lihi1.cc/qXfEK"]:nth-of-type(39)
 *##[href^="https://joker-autogame.com"]
 *##[href^="https://lsm99you.com/"]
 *##[href^="https://xn--12cm2bvah8excda9r1b4cj6b.com"]
 *##[href^="https://ufabet1688.cc"]
 *##[href^="https://dafuq888.com"]
 *##[href^="https://baccaratpremier.com"]
-*##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sagame168th.aff.html"]
 *##[href^="https://ufakicks.com"]
 *##[href^="https://www.zeed678.com"]
 *##[href^="https://www.chokdee777.com/"]
@@ -113,12 +111,9 @@
 *##[href^="https://lsm99good.com"]
 *##[href^="https://www.slotxoth.com"]
 *##[href^="https://huaylikexxx.com/หวยฮานอย"]
-*##[href^="https://scr99thai.com/th/registration/060371"]
 *##[href^="https://www.giantslot.net/all-reg"]
-*##[href^="https://lihi1.cc/qXfEK"]:nth-of-type(64)
 *##[href^="https://play681th.com/th/register/"]
 *##[href^="https://line.me/R/ti/p/@huayaun2"]
-*##[href^="https://scr99thai.com/th/registration/129993"]
 *##[href^="https://kingdom66.com/"]
 *##[href^="https://huaylike.com/"]
 *##[href^="https://one4bet.com/"]
