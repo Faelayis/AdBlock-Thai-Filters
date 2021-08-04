@@ -8,9 +8,15 @@
 ## :page_facing_up: Lists (รายการสำหรับประเทศไทย)
 List รายการ | Size ขนาด | Subscribe & Add เพิ่มเข้ารายการ | Direct Link ลิงก์โดยตรง
 |:---------:|:-------:|:-------:|:--------:
+Thai Banner All (บล็อกแบนเนอร์ทั้งหมด) | ![][Filter_Banner_Size_all] | [Click][Filter_Banner_Subscribe_all] | [Link][Direct_Banner_all] |
 Thai Ads all Filters (บล็อกโฆษณาทั้งหมด) | ![][Filter_Size_all] | [Click][Filter_Subscribe_all] | [Link][Direct_all] |
 Thai Ads all Filters Pre-release (ทดสอบก่อนปล่อยจริง) | ![][Filter Size_Prerelease] | [Click][Filter_Subscribe_Prerelease] | [Link][Direct_Prerelease] 
 Anime Filters (บล็อกโฆษณาเฉพาะอนิเมะ) | ![][Filter_Size_Anime] | [Click][Filter_Subscribe_Anime] | [Link][Direct_Anime] |
+
+[Filter_Banner_Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/banner-all.txt&title=AdsBlockThaiBannerAll
+[Direct_Banner_all]: https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/banner-all.txt
+[Filter_Banner_Size_all]: https://img.shields.io/github/size/Faelayis/AdBlock-Thai-Filters/banner-all.txt?style=flat-square
+[Tag_Banner_all]: https://img.shields.io/github/v/release/Faelayis/AdBlock-Thai-Filters?label=&style=for-the-badge
 
 [Filter_Subscribe_all]: https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Faelayis/adblock-thai-filters/master/filters.txt&title=AdsBlockThaiFilters
 [Direct_all]: https://raw.githubusercontent.com/Faelayis/AdBlock-Thai-Filters/master/filters.txt
