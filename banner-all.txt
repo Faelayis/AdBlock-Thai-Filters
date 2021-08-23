@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdsBlockThaiBannerAll
-! Version: 07.08.2021.01
+! Version: 23.08.2021.01
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/Faelayis/adblock-thai-filters
 ! Reporting Issues: https://github.com/Faelayis/adblock-thai-filters/issues
@@ -121,3 +121,10 @@
 *##[href*="affnew.s3-ap-southeast-1.amazonaws.com"]
 *##[href*="slot12s3.s3.ap-southeast-1.amazonaws.com/index.html"]
 *##[href*="slotxo369.s3-ap-southeast-1.amazonaws.com/index.html"]
+
+*##[href="https://betkub88.com"]
+*##[href="https://www.slot12.com"]
+*##[href="https://jokerslot789.net/"]
+*##[href="https://www.slotxo369.com"]
+*##[href="https://www.playlive88.com"]
+*##[href="https://www.bslotauto.com/"]
